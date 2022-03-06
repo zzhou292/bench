@@ -1,0 +1,136 @@
+2022-Mar-05 22:01:19:                                    _                 
+2022-Mar-05 22:01:19:  _ __   __ _ _ __   ___  _ __ ___ (_)_ __   ___ _ __ 
+2022-Mar-05 22:01:19: | '_ \ / _` | '_ \ / _ \| '_ ` _ \| | '_ \ / _ \ '__|
+2022-Mar-05 22:01:19: | | | | (_| | | | | (_) | | | | | | | | | |  __/ |   
+2022-Mar-05 22:01:19: |_| |_|\__,_|_| |_|\___/|_| |_| |_|_|_| |_|\___|_|   
+2022-Mar-05 22:01:19: 
+2022-Mar-05 22:01:19: Version 3.5.2-cuda11
+2022-Mar-05 22:01:19: Web interface was not started.
+2022-Mar-05 22:01:19: CUDA driver version is 11.6, runtime version is 11.1
+2022-Mar-05 22:01:19: Detected 2 devices
+2022-Mar-05 22:01:19: GPU 0 PCI 23:00.0, Platform: CUDA, Name: NVIDIA GeForce GTX 1080, 8119 MB available
+2022-Mar-05 22:01:19: GPU 1 PCI 2d:00.0, Platform: CUDA, Name: NVIDIA GeForce GTX 1080, 8116 MB available
+2022-Mar-05 22:01:19: -------------------Ethash:------------------
+2022-Mar-05 22:01:19: Currency: Ethash-unknown
+2022-Mar-05 22:01:19: Wallet: 0xF68CbDa32a082C9168AB1F084042242C3a09b6e6
+2022-Mar-05 22:01:19: Rig name: cleveland
+2022-Mar-05 22:01:19: Email: zzhou292@wisc.edu
+2022-Mar-05 22:01:19: Hashrate threshold to restart miner is not set
+2022-Mar-05 22:01:19: Number of rejected shares per hour to restart miner is not set
+2022-Mar-05 22:01:19: Added pool: 20.115.37.250:8082
+2022-Mar-05 22:01:19: Auto pool sorting is disabled
+2022-Mar-05 22:01:19: Using all GPU devices
+2022-Mar-05 22:01:19: Memory tweak: 1,1
+2022-Mar-05 22:01:19: -------------Common parameters:-------------
+2022-Mar-05 22:01:19: Log path: ./logs/
+2022-Mar-05 22:01:19: Log is written to file
+2022-Mar-05 22:01:19: GPU watchdog is enabled
+2022-Mar-05 22:01:19: Never calling reboot.sh (always restarting the miner in case of errors). 
+2022-Mar-05 22:01:19: Setting up algorithm: Ethash
+2022-Mar-05 22:01:19: Success setting power limit to 60% for device #0
+2022-Mar-05 22:01:19: Success setting power limit to 60% for device #1
+2022-Mar-05 22:01:20: Connecting to pools...
+2022-Mar-05 22:01:21: Connected to pool: 20.115.37.250:8082
+2022-Mar-05 22:01:22: New job from 20.115.37.250:8082 | share difficulty = 10000 MH, epoch 477 (4839 MB)
+2022-Mar-05 22:01:22: Ethereum - Total speed: 0.000 H/s, Total shares: 0 Rejected: 0, Time: 00:02
+2022-Mar-05 22:01:22: Ethereum: GPU 0 0.000 H/s, GPU 1 0.000 H/s
+2022-Mar-05 22:01:22: GPU0 t=57°C fan 15% power 106.30W, GPU1 t=72°C fan 21% power 108.52W. Total power: 214.82W
+2022-Mar-05 22:01:22: New job from 20.115.37.250:8082
+2022-Mar-05 22:01:22: Ethereum - Total speed: 0.000 H/s, Total shares: 0 Rejected: 0, Time: 00:02
+2022-Mar-05 22:01:22: Ethereum: GPU 0 0.000 H/s, GPU 1 0.000 H/s
+2022-Mar-05 22:01:22: Ethereum last 10 min - GPU 0: 0.000 H/s, GPU 1: 0.000 H/s. Total: 0.000 H/s.
+2022-Mar-05 22:01:22: New job from 20.115.37.250:8082
+2022-Mar-05 22:01:22: Ethereum - Total speed: 0.000 H/s, Total shares: 0 Rejected: 0, Time: 00:02
+2022-Mar-05 22:01:22: Ethereum: GPU 0 0.000 H/s, GPU 1 0.000 H/s
+2022-Mar-05 22:01:22: GPU0 t=57°C fan 15% power 109.12W, GPU1 t=72°C fan 22% power 107.06W. Total power: 216.18W
+2022-Mar-05 22:01:22: New job from 20.115.37.250:8082
+2022-Mar-05 22:01:23: Ethereum - Total speed: 0.000 H/s, Total shares: 0 Rejected: 0, Time: 00:03
+2022-Mar-05 22:01:23: Ethereum: GPU 0 0.000 H/s, GPU 1 0.000 H/s
+2022-Mar-05 22:01:26: System exception: 
+2022-Mar-05 22:01:26: device: 1; Error: not enough free memory on GPU 1 to create DAG. Current epoch requires 4839 MB memory for DAG but there is only 2324 MB free.
+2022-Mar-05 22:01:27: New job from 20.115.37.250:8082
+2022-Mar-05 22:01:27: Ethereum - Total speed: 0.000 H/s, Total shares: 0 Rejected: 0, Time: 00:07
+2022-Mar-05 22:01:27: Ethereum: GPU 0 0.000 H/s, GPU 1 0.000 H/s
+2022-Mar-05 22:01:27: GPU0 t=58°C fan 16% power 105.08W, GPU1 t=73°C fan 22% power 109.00W. Total power: 214.08W
+2022-Mar-05 22:01:27: New job from 20.115.37.250:8082
+2022-Mar-05 22:01:27: Ethereum - Total speed: 0.000 H/s, Total shares: 0 Rejected: 0, Time: 00:07
+2022-Mar-05 22:01:27: Ethereum: GPU 0 0.000 H/s, GPU 1 0.000 H/s
+2022-Mar-05 22:01:27: Ethereum last 10 min - GPU 0: 0.000 H/s, GPU 1: 0.000 H/s. Total: 0.000 H/s.
+2022-Mar-05 22:01:27: New job from 20.115.37.250:8082
+2022-Mar-05 22:01:27: Ethereum - Total speed: 0.000 H/s, Total shares: 0 Rejected: 0, Time: 00:07
+2022-Mar-05 22:01:27: Ethereum: GPU 0 0.000 H/s, GPU 1 0.000 H/s
+2022-Mar-05 22:01:27: GPU0 t=58°C fan 16% power 107.36W, GPU1 t=73°C fan 21% power 106.87W. Total power: 214.24W
+2022-Mar-05 22:01:27: New job from 20.115.37.250:8082
+2022-Mar-05 22:01:27: Ethereum - Total speed: 0.000 H/s, Total shares: 0 Rejected: 0, Time: 00:07
+2022-Mar-05 22:01:27: Ethereum: GPU 0 0.000 H/s, GPU 1 0.000 H/s
+2022-Mar-05 22:01:31: New job from 20.115.37.250:8082
+2022-Mar-05 22:01:31: Ethereum - Total speed: 0.000 H/s, Total shares: 0 Rejected: 0, Time: 00:11
+2022-Mar-05 22:01:31: Ethereum: GPU 0 0.000 H/s, GPU 1 0.000 H/s
+2022-Mar-05 22:01:31: GPU0 t=59°C fan 18% power 107.23W, GPU1 t=73°C fan 46% power 107.43W. Total power: 214.66W
+2022-Mar-05 22:01:33: System exception: 
+2022-Mar-05 22:01:33: device: 1; Error: not enough free memory on GPU 1 to create DAG. Current epoch requires 4839 MB memory for DAG but there is only 2320 MB free.
+2022-Mar-05 22:01:33: New job from 20.115.37.250:8082
+2022-Mar-05 22:01:33: Ethereum - Total speed: 0.000 H/s, Total shares: 0 Rejected: 0, Time: 00:14
+2022-Mar-05 22:01:33: Ethereum: GPU 0 0.000 H/s, GPU 1 0.000 H/s
+2022-Mar-05 22:01:33: Ethereum last 10 min - GPU 0: 0.000 H/s, GPU 1: 0.000 H/s. Total: 0.000 H/s.
+2022-Mar-05 22:01:37: New job from 20.115.37.250:8082
+2022-Mar-05 22:01:37: Ethereum - Total speed: 0.000 H/s, Total shares: 0 Rejected: 0, Time: 00:17
+2022-Mar-05 22:01:37: Ethereum: GPU 0 0.000 H/s, GPU 1 0.000 H/s
+2022-Mar-05 22:01:37: GPU0 t=59°C fan 22% power 107.79W, GPU1 t=74°C fan 25% power 107.78W. Total power: 215.58W
+2022-Mar-05 22:01:37: New job from 20.115.37.250:8082
+2022-Mar-05 22:01:37: Ethereum - Total speed: 0.000 H/s, Total shares: 0 Rejected: 0, Time: 00:17
+2022-Mar-05 22:01:37: Ethereum: GPU 0 0.000 H/s, GPU 1 0.000 H/s
+2022-Mar-05 22:01:39: System exception: 
+2022-Mar-05 22:01:39: device: 1; Error: not enough free memory on GPU 1 to create DAG. Current epoch requires 4839 MB memory for DAG but there is only 2320 MB free.
+2022-Mar-05 22:01:40: New job from 20.115.37.250:8082
+2022-Mar-05 22:01:40: Ethereum - Total speed: 0.000 H/s, Total shares: 0 Rejected: 0, Time: 00:20
+2022-Mar-05 22:01:40: Ethereum: GPU 0 0.000 H/s, GPU 1 0.000 H/s
+2022-Mar-05 22:01:40: GPU0 t=60°C fan 23% power 107.06W, GPU1 t=74°C fan 25% power 106.95W. Total power: 214.01W
+2022-Mar-05 22:01:42: System exception: 
+2022-Mar-05 22:01:42: device: 1; Error: not enough free memory on GPU 1 to create DAG. Current epoch requires 4839 MB memory for DAG but there is only 2320 MB free.
+2022-Mar-05 22:01:43: New job from 20.115.37.250:8082
+2022-Mar-05 22:01:43: Ethereum - Total speed: 0.000 H/s, Total shares: 0 Rejected: 0, Time: 00:23
+2022-Mar-05 22:01:43: Ethereum: GPU 0 0.000 H/s, GPU 1 0.000 H/s
+2022-Mar-05 22:01:43: Ethereum last 10 min - GPU 0: 0.000 H/s, GPU 1: 0.000 H/s. Total: 0.000 H/s.
+2022-Mar-05 22:01:43: New job from 20.115.37.250:8082
+2022-Mar-05 22:01:43: Ethereum - Total speed: 0.000 H/s, Total shares: 0 Rejected: 0, Time: 00:23
+2022-Mar-05 22:01:43: Ethereum: GPU 0 0.000 H/s, GPU 1 0.000 H/s
+2022-Mar-05 22:01:43: GPU0 t=60°C fan 24% power 107.18W, GPU1 t=75°C fan 46% power 107.71W. Total power: 214.89W
+2022-Mar-05 22:01:45: System exception: 
+2022-Mar-05 22:01:45: device: 1; Error: not enough free memory on GPU 1 to create DAG. Current epoch requires 4839 MB memory for DAG but there is only 2320 MB free.
+2022-Mar-05 22:01:46: New job from 20.115.37.250:8082
+2022-Mar-05 22:01:46: Ethereum - Total speed: 0.000 H/s, Total shares: 0 Rejected: 0, Time: 00:26
+2022-Mar-05 22:01:46: Ethereum: GPU 0 0.000 H/s, GPU 1 0.000 H/s
+2022-Mar-05 22:01:46: New job from 20.115.37.250:8082
+2022-Mar-05 22:01:46: Ethereum - Total speed: 0.000 H/s, Total shares: 0 Rejected: 0, Time: 00:26
+2022-Mar-05 22:01:46: Ethereum: GPU 0 0.000 H/s, GPU 1 0.000 H/s
+2022-Mar-05 22:01:46: GPU0 t=60°C fan 25% power 105.64W, GPU1 t=75°C fan 30% power 108.14W. Total power: 213.79W
+2022-Mar-05 22:01:48: System exception: 
+2022-Mar-05 22:01:48: device: 1; Error: not enough free memory on GPU 1 to create DAG. Current epoch requires 4839 MB memory for DAG but there is only 2320 MB free.
+2022-Mar-05 22:01:48: New job from 20.115.37.250:8082
+2022-Mar-05 22:01:48: Ethereum - Total speed: 0.000 H/s, Total shares: 0 Rejected: 0, Time: 00:29
+2022-Mar-05 22:01:48: Ethereum: GPU 0 0.000 H/s, GPU 1 0.000 H/s
+2022-Mar-05 22:01:48: Ethereum last 10 min - GPU 0: 0.000 H/s, GPU 1: 0.000 H/s. Total: 0.000 H/s.
+2022-Mar-05 22:01:48: New job from 20.115.37.250:8082
+2022-Mar-05 22:01:48: Ethereum - Total speed: 0.000 H/s, Total shares: 0 Rejected: 0, Time: 00:29
+2022-Mar-05 22:01:48: Ethereum: GPU 0 0.000 H/s, GPU 1 0.000 H/s
+2022-Mar-05 22:01:48: GPU0 t=61°C fan 26% power 108.90W, GPU1 t=75°C fan 28% power 108.51W. Total power: 217.41W
+2022-Mar-05 22:01:49: New job from 20.115.37.250:8082
+2022-Mar-05 22:01:49: Ethereum - Total speed: 0.000 H/s, Total shares: 0 Rejected: 0, Time: 00:29
+2022-Mar-05 22:01:49: Ethereum: GPU 0 0.000 H/s, GPU 1 0.000 H/s
+2022-Mar-05 22:01:49: New job from 20.115.37.250:8082
+2022-Mar-05 22:01:50: Ethereum - Total speed: 0.000 H/s, Total shares: 0 Rejected: 0, Time: 00:30
+2022-Mar-05 22:01:50: Ethereum: GPU 0 0.000 H/s, GPU 1 0.000 H/s
+2022-Mar-05 22:01:50: GPU0 t=61°C fan 27% power 108.27W, GPU1 t=75°C fan 26% power 107.04W. Total power: 215.31W
+2022-Mar-05 22:01:51: System exception: 
+2022-Mar-05 22:01:51: device: 1; Error: not enough free memory on GPU 1 to create DAG. Current epoch requires 4839 MB memory for DAG but there is only 2320 MB free.
+2022-Mar-05 22:01:53: New job from 20.115.37.250:8082
+2022-Mar-05 22:01:53: Ethereum - Total speed: 0.000 H/s, Total shares: 0 Rejected: 0, Time: 00:33
+2022-Mar-05 22:01:53: Ethereum: GPU 0 0.000 H/s, GPU 1 0.000 H/s
+2022-Mar-05 22:01:53: Ethereum last 10 min - GPU 0: 0.000 H/s, GPU 1: 0.000 H/s. Total: 0.000 H/s.
+2022-Mar-05 22:01:53: New job from 20.115.37.250:8082
+2022-Mar-05 22:01:53: Ethereum - Total speed: 0.000 H/s, Total shares: 0 Rejected: 0, Time: 00:33
+2022-Mar-05 22:01:53: Ethereum: GPU 0 0.000 H/s, GPU 1 0.000 H/s
+2022-Mar-05 22:01:53: GPU0 t=61°C fan 28% power 108.56W, GPU1 t=75°C fan 29% power 108.01W. Total power: 216.57W
+2022-Mar-05 22:01:55: System exception: 
+2022-Mar-05 22:01:55: device: 1; Error: not enough free memory on GPU 1 to create DAG. Current epoch requires 4839 MB memory for DAG but there is only 2320 MB free.

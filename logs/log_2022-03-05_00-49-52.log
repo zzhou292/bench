@@ -1,0 +1,216 @@
+2022-Mar-05 00:49:52:                                    _                 
+2022-Mar-05 00:49:52:  _ __   __ _ _ __   ___  _ __ ___ (_)_ __   ___ _ __ 
+2022-Mar-05 00:49:52: | '_ \ / _` | '_ \ / _ \| '_ ` _ \| | '_ \ / _ \ '__|
+2022-Mar-05 00:49:52: | | | | (_| | | | | (_) | | | | | | | | | |  __/ |   
+2022-Mar-05 00:49:52: |_| |_|\__,_|_| |_|\___/|_| |_| |_|_|_| |_|\___|_|   
+2022-Mar-05 00:49:52: 
+2022-Mar-05 00:49:52: Version 3.5.2-cuda11
+2022-Mar-05 00:49:52: Started EthMan server on port 3333 without a password (read-only mode).
+2022-Mar-05 00:49:52: Started web interface on port 9090 without a password.
+2022-Mar-05 00:49:52: CUDA driver version is 11.6, runtime version is 11.1
+2022-Mar-05 00:49:52: Detected 2 devices
+2022-Mar-05 00:49:52: GPU 0 PCI 23:00.0, Platform: CUDA, Name: NVIDIA GeForce GTX 1080, 8119 MB available
+2022-Mar-05 00:49:52: GPU 1 PCI 2d:00.0, Platform: CUDA, Name: NVIDIA GeForce GTX 1080, 8116 MB available
+2022-Mar-05 00:49:52: -------------------Ethash:------------------
+2022-Mar-05 00:49:52: Currency: Ethereum
+2022-Mar-05 00:49:52: Wallet: 0xF68CbDa32a082C9168AB1F084042242C3a09b6e6
+2022-Mar-05 00:49:52: Rig name: Bashful_42bd835f
+2022-Mar-05 00:49:52: Email was not set.
+2022-Mar-05 00:49:52: Hashrate threshold to restart miner is not set
+2022-Mar-05 00:49:52: Number of rejected shares per hour to restart miner is not set
+2022-Mar-05 00:49:52: Added pool: eth-us-west1.nanopool.org:9433
+2022-Mar-05 00:49:52: Added pool: eth-us-east1.nanopool.org:9433
+2022-Mar-05 00:49:52: Added pool: eth-eu2.nanopool.org:9433
+2022-Mar-05 00:49:52: Added pool: eth-asia1.nanopool.org:9433
+2022-Mar-05 00:49:52: Added pool: eth-jp1.nanopool.org:9433
+2022-Mar-05 00:49:52: Added pool: eth-eu1.nanopool.org:9433
+2022-Mar-05 00:49:52: Added pool: eth-au1.nanopool.org:9433
+2022-Mar-05 00:49:52: Auto pool sorting is enabled
+2022-Mar-05 00:49:52: Using all GPU devices
+2022-Mar-05 00:49:52: Memory tweak: 1,1
+2022-Mar-05 00:49:52: -------------Common parameters:-------------
+2022-Mar-05 00:49:52: Log path: ./logs/
+2022-Mar-05 00:49:52: Log is written to file
+2022-Mar-05 00:49:52: GPU watchdog is enabled
+2022-Mar-05 00:49:52: Never calling reboot.sh (always restarting the miner in case of errors). 
+2022-Mar-05 00:49:52: Setting up algorithm: Ethash
+2022-Mar-05 00:49:53: Connecting to pools...
+2022-Mar-05 00:49:53: Connected to pool: eth-us-west1.nanopool.org:9433 | IP: 45.32.71.82 | ping: 51 ms.
+2022-Mar-05 00:49:53: Ethereum: trying to use "stratum" mining protocol... to disable this behaviour, specify: protocol=JSON-RPC
+2022-Mar-05 00:49:53: Ethereum: trying to use "stratum" mining protocol... to disable this behaviour, specify: protocol=JSON-RPC
+2022-Mar-05 00:49:54: Ethereum: trying to use "stratum" mining protocol... to disable this behaviour, specify: protocol=JSON-RPC
+2022-Mar-05 00:49:54: Ethereum: trying to use "stratum" mining protocol... to disable this behaviour, specify: protocol=JSON-RPC
+2022-Mar-05 00:49:54: Ethereum: trying to use "stratum" mining protocol... to disable this behaviour, specify: protocol=JSON-RPC
+2022-Mar-05 00:49:54: Ethereum: trying to use "stratum" mining protocol... to disable this behaviour, specify: protocol=JSON-RPC
+2022-Mar-05 00:49:55: Ethereum: trying to use "stratum" mining protocol... to disable this behaviour, specify: protocol=JSON-RPC
+2022-Mar-05 00:49:55: Ethereum: trying to use "stratum" mining protocol... to disable this behaviour, specify: protocol=JSON-RPC
+2022-Mar-05 00:49:55: Ethereum: trying to use "stratum" mining protocol... to disable this behaviour, specify: protocol=JSON-RPC
+2022-Mar-05 00:49:55: Ethereum: trying to use "stratum" mining protocol... to disable this behaviour, specify: protocol=JSON-RPC
+2022-Mar-05 00:49:55: Ethereum: trying to use "stratum" mining protocol... to disable this behaviour, specify: protocol=JSON-RPC
+2022-Mar-05 00:49:56: Ethereum: trying to use "stratum" mining protocol... to disable this behaviour, specify: protocol=JSON-RPC
+2022-Mar-05 00:49:56: Ethereum: trying to use "stratum" mining protocol... to disable this behaviour, specify: protocol=JSON-RPC
+2022-Mar-05 00:49:56: Ethereum: trying to use "stratum" mining protocol... to disable this behaviour, specify: protocol=JSON-RPC
+2022-Mar-05 00:49:56: Ethereum: trying to use "stratum" mining protocol... to disable this behaviour, specify: protocol=JSON-RPC
+2022-Mar-05 00:49:56: Ethereum: trying to use "stratum" mining protocol... to disable this behaviour, specify: protocol=JSON-RPC
+2022-Mar-05 00:49:57: Ethereum: trying to use "stratum" mining protocol... to disable this behaviour, specify: protocol=JSON-RPC
+2022-Mar-05 00:49:57: Ethereum: trying to use "stratum" mining protocol... to disable this behaviour, specify: protocol=JSON-RPC
+2022-Mar-05 00:49:57: Ethereum: trying to use "stratum" mining protocol... to disable this behaviour, specify: protocol=JSON-RPC
+2022-Mar-05 00:49:57: Ethereum: trying to use "stratum" mining protocol... to disable this behaviour, specify: protocol=JSON-RPC
+2022-Mar-05 00:49:58: Ethereum: trying to use "stratum" mining protocol... to disable this behaviour, specify: protocol=JSON-RPC
+2022-Mar-05 00:49:58: Ethereum: trying to use "stratum" mining protocol... to disable this behaviour, specify: protocol=JSON-RPC
+2022-Mar-05 00:49:58: Ethereum: trying to use "stratum" mining protocol... to disable this behaviour, specify: protocol=JSON-RPC
+2022-Mar-05 00:49:58: Ethereum: trying to use "stratum" mining protocol... to disable this behaviour, specify: protocol=JSON-RPC
+2022-Mar-05 00:49:58: Ethereum: trying to use "stratum" mining protocol... to disable this behaviour, specify: protocol=JSON-RPC
+2022-Mar-05 00:49:58: Ethereum: trying to use "stratum" mining protocol... to disable this behaviour, specify: protocol=JSON-RPC
+2022-Mar-05 00:49:59: Ethereum: trying to use "stratum" mining protocol... to disable this behaviour, specify: protocol=JSON-RPC
+2022-Mar-05 00:49:59: Ethereum: trying to use "stratum" mining protocol... to disable this behaviour, specify: protocol=JSON-RPC
+2022-Mar-05 00:49:59: Ethereum: trying to use "stratum" mining protocol... to disable this behaviour, specify: protocol=JSON-RPC
+2022-Mar-05 00:49:59: Ethereum: trying to use "stratum" mining protocol... to disable this behaviour, specify: protocol=JSON-RPC
+2022-Mar-05 00:50:00: Ethereum: trying to use "stratum" mining protocol... to disable this behaviour, specify: protocol=JSON-RPC
+2022-Mar-05 00:50:00: Ethereum: trying to use "stratum" mining protocol... to disable this behaviour, specify: protocol=JSON-RPC
+2022-Mar-05 00:50:00: Ethereum: trying to use "stratum" mining protocol... to disable this behaviour, specify: protocol=JSON-RPC
+2022-Mar-05 00:50:00: Ethereum: trying to use "stratum" mining protocol... to disable this behaviour, specify: protocol=JSON-RPC
+2022-Mar-05 00:50:00: Ethereum: trying to use "stratum" mining protocol... to disable this behaviour, specify: protocol=JSON-RPC
+2022-Mar-05 00:50:01: Ethereum: trying to use "stratum" mining protocol... to disable this behaviour, specify: protocol=JSON-RPC
+2022-Mar-05 00:50:01: Ethereum: trying to use "stratum" mining protocol... to disable this behaviour, specify: protocol=JSON-RPC
+2022-Mar-05 00:50:01: Ethereum: trying to use "stratum" mining protocol... to disable this behaviour, specify: protocol=JSON-RPC
+2022-Mar-05 00:50:01: Ethereum: trying to use "stratum" mining protocol... to disable this behaviour, specify: protocol=JSON-RPC
+2022-Mar-05 00:50:02: Ethereum: trying to use "stratum" mining protocol... to disable this behaviour, specify: protocol=JSON-RPC
+2022-Mar-05 00:50:02: Ethereum: trying to use "stratum" mining protocol... to disable this behaviour, specify: protocol=JSON-RPC
+2022-Mar-05 00:50:02: Ethereum: trying to use "stratum" mining protocol... to disable this behaviour, specify: protocol=JSON-RPC
+2022-Mar-05 00:50:02: Ethereum: trying to use "stratum" mining protocol... to disable this behaviour, specify: protocol=JSON-RPC
+2022-Mar-05 00:50:03: Ethereum: trying to use "stratum" mining protocol... to disable this behaviour, specify: protocol=JSON-RPC
+2022-Mar-05 00:50:03: Ethereum: trying to use "stratum" mining protocol... to disable this behaviour, specify: protocol=JSON-RPC
+2022-Mar-05 00:50:03: Ethereum: trying to use "stratum" mining protocol... to disable this behaviour, specify: protocol=JSON-RPC
+2022-Mar-05 00:50:03: Ethereum: trying to use "stratum" mining protocol... to disable this behaviour, specify: protocol=JSON-RPC
+2022-Mar-05 00:50:03: Ethereum: trying to use "stratum" mining protocol... to disable this behaviour, specify: protocol=JSON-RPC
+2022-Mar-05 00:50:04: Ethereum: trying to use "stratum" mining protocol... to disable this behaviour, specify: protocol=JSON-RPC
+2022-Mar-05 00:50:04: Ethereum: trying to use "stratum" mining protocol... to disable this behaviour, specify: protocol=JSON-RPC
+2022-Mar-05 00:50:04: Ethereum: trying to use "stratum" mining protocol... to disable this behaviour, specify: protocol=JSON-RPC
+2022-Mar-05 00:50:04: Ethereum: trying to use "stratum" mining protocol... to disable this behaviour, specify: protocol=JSON-RPC
+2022-Mar-05 00:50:04: Ethereum: trying to use "stratum" mining protocol... to disable this behaviour, specify: protocol=JSON-RPC
+2022-Mar-05 00:50:05: Ethereum: trying to use "stratum" mining protocol... to disable this behaviour, specify: protocol=JSON-RPC
+2022-Mar-05 00:50:05: Ethereum: trying to use "stratum" mining protocol... to disable this behaviour, specify: protocol=JSON-RPC
+2022-Mar-05 00:50:05: Ethereum: trying to use "stratum" mining protocol... to disable this behaviour, specify: protocol=JSON-RPC
+2022-Mar-05 00:50:05: Ethereum: trying to use "stratum" mining protocol... to disable this behaviour, specify: protocol=JSON-RPC
+2022-Mar-05 00:50:05: Ethereum: trying to use "stratum" mining protocol... to disable this behaviour, specify: protocol=JSON-RPC
+2022-Mar-05 00:50:06: Ethereum: trying to use "stratum" mining protocol... to disable this behaviour, specify: protocol=JSON-RPC
+2022-Mar-05 00:50:06: Ethereum: trying to use "stratum" mining protocol... to disable this behaviour, specify: protocol=JSON-RPC
+2022-Mar-05 00:50:06: Ethereum: trying to use "stratum" mining protocol... to disable this behaviour, specify: protocol=JSON-RPC
+2022-Mar-05 00:50:06: Ethereum: trying to use "stratum" mining protocol... to disable this behaviour, specify: protocol=JSON-RPC
+2022-Mar-05 00:50:07: Ethereum: trying to use "stratum" mining protocol... to disable this behaviour, specify: protocol=JSON-RPC
+2022-Mar-05 00:50:07: Ethereum: trying to use "stratum" mining protocol... to disable this behaviour, specify: protocol=JSON-RPC
+2022-Mar-05 00:50:07: Ethereum: trying to use "stratum" mining protocol... to disable this behaviour, specify: protocol=JSON-RPC
+2022-Mar-05 00:50:07: Ethereum: trying to use "stratum" mining protocol... to disable this behaviour, specify: protocol=JSON-RPC
+2022-Mar-05 00:50:07: Ethereum: trying to use "stratum" mining protocol... to disable this behaviour, specify: protocol=JSON-RPC
+2022-Mar-05 00:50:08: Ethereum: trying to use "stratum" mining protocol... to disable this behaviour, specify: protocol=JSON-RPC
+2022-Mar-05 00:50:08: Ethereum: trying to use "stratum" mining protocol... to disable this behaviour, specify: protocol=JSON-RPC
+2022-Mar-05 00:50:08: Ethereum: trying to use "stratum" mining protocol... to disable this behaviour, specify: protocol=JSON-RPC
+2022-Mar-05 00:50:08: Ethereum: trying to use "stratum" mining protocol... to disable this behaviour, specify: protocol=JSON-RPC
+2022-Mar-05 00:50:09: Ethereum: trying to use "stratum" mining protocol... to disable this behaviour, specify: protocol=JSON-RPC
+2022-Mar-05 00:50:09: Ethereum: trying to use "stratum" mining protocol... to disable this behaviour, specify: protocol=JSON-RPC
+2022-Mar-05 00:50:09: Ethereum: trying to use "stratum" mining protocol... to disable this behaviour, specify: protocol=JSON-RPC
+2022-Mar-05 00:50:09: Ethereum: trying to use "stratum" mining protocol... to disable this behaviour, specify: protocol=JSON-RPC
+2022-Mar-05 00:50:09: Ethereum: trying to use "stratum" mining protocol... to disable this behaviour, specify: protocol=JSON-RPC
+2022-Mar-05 00:50:10: Ethereum: trying to use "stratum" mining protocol... to disable this behaviour, specify: protocol=JSON-RPC
+2022-Mar-05 00:50:10: Ethereum: trying to use "stratum" mining protocol... to disable this behaviour, specify: protocol=JSON-RPC
+2022-Mar-05 00:50:10: Ethereum: trying to use "stratum" mining protocol... to disable this behaviour, specify: protocol=JSON-RPC
+2022-Mar-05 00:50:10: Ethereum: trying to use "stratum" mining protocol... to disable this behaviour, specify: protocol=JSON-RPC
+2022-Mar-05 00:50:10: Ethereum: trying to use "stratum" mining protocol... to disable this behaviour, specify: protocol=JSON-RPC
+2022-Mar-05 00:50:11: Ethereum: trying to use "stratum" mining protocol... to disable this behaviour, specify: protocol=JSON-RPC
+2022-Mar-05 00:50:11: Ethereum: trying to use "stratum" mining protocol... to disable this behaviour, specify: protocol=JSON-RPC
+2022-Mar-05 00:50:11: Ethereum: trying to use "stratum" mining protocol... to disable this behaviour, specify: protocol=JSON-RPC
+2022-Mar-05 00:50:11: Ethereum: trying to use "stratum" mining protocol... to disable this behaviour, specify: protocol=JSON-RPC
+2022-Mar-05 00:50:11: Ethereum: trying to use "stratum" mining protocol... to disable this behaviour, specify: protocol=JSON-RPC
+2022-Mar-05 00:50:12: Ethereum: trying to use "stratum" mining protocol... to disable this behaviour, specify: protocol=JSON-RPC
+2022-Mar-05 00:50:12: Ethereum: trying to use "stratum" mining protocol... to disable this behaviour, specify: protocol=JSON-RPC
+2022-Mar-05 00:50:12: Ethereum: trying to use "stratum" mining protocol... to disable this behaviour, specify: protocol=JSON-RPC
+2022-Mar-05 00:50:12: Ethereum: trying to use "stratum" mining protocol... to disable this behaviour, specify: protocol=JSON-RPC
+2022-Mar-05 00:50:13: Ethereum: trying to use "stratum" mining protocol... to disable this behaviour, specify: protocol=JSON-RPC
+2022-Mar-05 00:50:13: Ethereum: trying to use "stratum" mining protocol... to disable this behaviour, specify: protocol=JSON-RPC
+2022-Mar-05 00:50:13: Ethereum: trying to use "stratum" mining protocol... to disable this behaviour, specify: protocol=JSON-RPC
+2022-Mar-05 00:50:13: Ethereum: trying to use "stratum" mining protocol... to disable this behaviour, specify: protocol=JSON-RPC
+2022-Mar-05 00:50:14: Ethereum: trying to use "stratum" mining protocol... to disable this behaviour, specify: protocol=JSON-RPC
+2022-Mar-05 00:50:14: Ethereum: trying to use "stratum" mining protocol... to disable this behaviour, specify: protocol=JSON-RPC
+2022-Mar-05 00:50:14: Ethereum: trying to use "stratum" mining protocol... to disable this behaviour, specify: protocol=JSON-RPC
+2022-Mar-05 00:50:14: Ethereum: trying to use "stratum" mining protocol... to disable this behaviour, specify: protocol=JSON-RPC
+2022-Mar-05 00:50:14: Ethereum: trying to use "stratum" mining protocol... to disable this behaviour, specify: protocol=JSON-RPC
+2022-Mar-05 00:50:15: Ethereum: trying to use "stratum" mining protocol... to disable this behaviour, specify: protocol=JSON-RPC
+2022-Mar-05 00:50:15: Ethereum: trying to use "stratum" mining protocol... to disable this behaviour, specify: protocol=JSON-RPC
+2022-Mar-05 00:50:15: Ethereum: trying to use "stratum" mining protocol... to disable this behaviour, specify: protocol=JSON-RPC
+2022-Mar-05 00:50:15: Ethereum: trying to use "stratum" mining protocol... to disable this behaviour, specify: protocol=JSON-RPC
+2022-Mar-05 00:50:16: Ethereum: trying to use "stratum" mining protocol... to disable this behaviour, specify: protocol=JSON-RPC
+2022-Mar-05 00:50:16: Ethereum: trying to use "stratum" mining protocol... to disable this behaviour, specify: protocol=JSON-RPC
+2022-Mar-05 00:50:16: Ethereum: trying to use "stratum" mining protocol... to disable this behaviour, specify: protocol=JSON-RPC
+2022-Mar-05 00:50:16: Ethereum: trying to use "stratum" mining protocol... to disable this behaviour, specify: protocol=JSON-RPC
+2022-Mar-05 00:50:16: Ethereum: trying to use "stratum" mining protocol... to disable this behaviour, specify: protocol=JSON-RPC
+2022-Mar-05 00:50:17: Ethereum: trying to use "stratum" mining protocol... to disable this behaviour, specify: protocol=JSON-RPC
+2022-Mar-05 00:50:17: Ethereum: trying to use "stratum" mining protocol... to disable this behaviour, specify: protocol=JSON-RPC
+2022-Mar-05 00:50:17: Ethereum: trying to use "stratum" mining protocol... to disable this behaviour, specify: protocol=JSON-RPC
+2022-Mar-05 00:50:17: Ethereum: trying to use "stratum" mining protocol... to disable this behaviour, specify: protocol=JSON-RPC
+2022-Mar-05 00:50:18: Ethereum: trying to use "stratum" mining protocol... to disable this behaviour, specify: protocol=JSON-RPC
+2022-Mar-05 00:50:18: Ethereum: trying to use "stratum" mining protocol... to disable this behaviour, specify: protocol=JSON-RPC
+2022-Mar-05 00:50:18: Ethereum: trying to use "stratum" mining protocol... to disable this behaviour, specify: protocol=JSON-RPC
+2022-Mar-05 00:50:18: Ethereum: trying to use "stratum" mining protocol... to disable this behaviour, specify: protocol=JSON-RPC
+2022-Mar-05 00:50:18: Ethereum: trying to use "stratum" mining protocol... to disable this behaviour, specify: protocol=JSON-RPC
+2022-Mar-05 00:50:19: Ethereum: trying to use "stratum" mining protocol... to disable this behaviour, specify: protocol=JSON-RPC
+2022-Mar-05 00:50:19: Ethereum: trying to use "stratum" mining protocol... to disable this behaviour, specify: protocol=JSON-RPC
+2022-Mar-05 00:50:19: Ethereum: trying to use "stratum" mining protocol... to disable this behaviour, specify: protocol=JSON-RPC
+2022-Mar-05 00:50:19: Ethereum: trying to use "stratum" mining protocol... to disable this behaviour, specify: protocol=JSON-RPC
+2022-Mar-05 00:50:19: Ethereum: trying to use "stratum" mining protocol... to disable this behaviour, specify: protocol=JSON-RPC
+2022-Mar-05 00:50:20: Ethereum: trying to use "stratum" mining protocol... to disable this behaviour, specify: protocol=JSON-RPC
+2022-Mar-05 00:50:20: Ethereum: trying to use "stratum" mining protocol... to disable this behaviour, specify: protocol=JSON-RPC
+2022-Mar-05 00:50:20: Ethereum: trying to use "stratum" mining protocol... to disable this behaviour, specify: protocol=JSON-RPC
+2022-Mar-05 00:50:20: Ethereum: trying to use "stratum" mining protocol... to disable this behaviour, specify: protocol=JSON-RPC
+2022-Mar-05 00:50:20: Ethereum: trying to use "stratum" mining protocol... to disable this behaviour, specify: protocol=JSON-RPC
+2022-Mar-05 00:50:21: Ethereum: trying to use "stratum" mining protocol... to disable this behaviour, specify: protocol=JSON-RPC
+2022-Mar-05 00:50:21: Ethereum: trying to use "stratum" mining protocol... to disable this behaviour, specify: protocol=JSON-RPC
+2022-Mar-05 00:50:21: Ethereum: trying to use "stratum" mining protocol... to disable this behaviour, specify: protocol=JSON-RPC
+2022-Mar-05 00:50:21: Ethereum: trying to use "stratum" mining protocol... to disable this behaviour, specify: protocol=JSON-RPC
+2022-Mar-05 00:50:21: Ethereum: trying to use "stratum" mining protocol... to disable this behaviour, specify: protocol=JSON-RPC
+2022-Mar-05 00:50:22: Ethereum: trying to use "stratum" mining protocol... to disable this behaviour, specify: protocol=JSON-RPC
+2022-Mar-05 00:50:22: Ethereum: trying to use "stratum" mining protocol... to disable this behaviour, specify: protocol=JSON-RPC
+2022-Mar-05 00:50:22: Ethereum: trying to use "stratum" mining protocol... to disable this behaviour, specify: protocol=JSON-RPC
+2022-Mar-05 00:50:22: Ethereum: trying to use "stratum" mining protocol... to disable this behaviour, specify: protocol=JSON-RPC
+2022-Mar-05 00:50:22: Ethereum: trying to use "stratum" mining protocol... to disable this behaviour, specify: protocol=JSON-RPC
+2022-Mar-05 00:50:23: Ethereum: trying to use "stratum" mining protocol... to disable this behaviour, specify: protocol=JSON-RPC
+2022-Mar-05 00:50:23: Ethereum: trying to use "stratum" mining protocol... to disable this behaviour, specify: protocol=JSON-RPC
+2022-Mar-05 00:50:23: Ethereum: trying to use "stratum" mining protocol... to disable this behaviour, specify: protocol=JSON-RPC
+2022-Mar-05 00:50:23: Ethereum: trying to use "stratum" mining protocol... to disable this behaviour, specify: protocol=JSON-RPC
+2022-Mar-05 00:50:23: Ethereum: trying to use "stratum" mining protocol... to disable this behaviour, specify: protocol=JSON-RPC
+2022-Mar-05 00:50:24: Ethereum: trying to use "stratum" mining protocol... to disable this behaviour, specify: protocol=JSON-RPC
+2022-Mar-05 00:50:24: Ethereum: trying to use "stratum" mining protocol... to disable this behaviour, specify: protocol=JSON-RPC
+2022-Mar-05 00:50:24: Ethereum: trying to use "stratum" mining protocol... to disable this behaviour, specify: protocol=JSON-RPC
+2022-Mar-05 00:50:24: Ethereum: trying to use "stratum" mining protocol... to disable this behaviour, specify: protocol=JSON-RPC
+2022-Mar-05 00:50:25: Ethereum: trying to use "stratum" mining protocol... to disable this behaviour, specify: protocol=JSON-RPC
+2022-Mar-05 00:50:25: Ethereum: trying to use "stratum" mining protocol... to disable this behaviour, specify: protocol=JSON-RPC
+2022-Mar-05 00:50:25: Ethereum: trying to use "stratum" mining protocol... to disable this behaviour, specify: protocol=JSON-RPC
+2022-Mar-05 00:50:25: Ethereum: trying to use "stratum" mining protocol... to disable this behaviour, specify: protocol=JSON-RPC
+2022-Mar-05 00:50:25: Ethereum: trying to use "stratum" mining protocol... to disable this behaviour, specify: protocol=JSON-RPC
+2022-Mar-05 00:50:26: Ethereum: trying to use "stratum" mining protocol... to disable this behaviour, specify: protocol=JSON-RPC
+2022-Mar-05 00:50:26: Ethereum: trying to use "stratum" mining protocol... to disable this behaviour, specify: protocol=JSON-RPC
+2022-Mar-05 00:50:26: Ethereum: trying to use "stratum" mining protocol... to disable this behaviour, specify: protocol=JSON-RPC
+2022-Mar-05 00:50:26: Ethereum: trying to use "stratum" mining protocol... to disable this behaviour, specify: protocol=JSON-RPC
+2022-Mar-05 00:50:26: Ethereum: trying to use "stratum" mining protocol... to disable this behaviour, specify: protocol=JSON-RPC
+2022-Mar-05 00:50:27: Ethereum: trying to use "stratum" mining protocol... to disable this behaviour, specify: protocol=JSON-RPC
+2022-Mar-05 00:50:27: Ethereum: trying to use "stratum" mining protocol... to disable this behaviour, specify: protocol=JSON-RPC
+2022-Mar-05 00:50:27: Ethereum: trying to use "stratum" mining protocol... to disable this behaviour, specify: protocol=JSON-RPC
+2022-Mar-05 00:50:27: Ethereum: trying to use "stratum" mining protocol... to disable this behaviour, specify: protocol=JSON-RPC
+2022-Mar-05 00:50:28: Ethereum: trying to use "stratum" mining protocol... to disable this behaviour, specify: protocol=JSON-RPC
+2022-Mar-05 00:50:28: Ethereum: trying to use "stratum" mining protocol... to disable this behaviour, specify: protocol=JSON-RPC
+2022-Mar-05 00:50:28: Ethereum: trying to use "stratum" mining protocol... to disable this behaviour, specify: protocol=JSON-RPC
+2022-Mar-05 00:50:28: Ethereum: trying to use "stratum" mining protocol... to disable this behaviour, specify: protocol=JSON-RPC
+2022-Mar-05 00:50:28: Ethereum: trying to use "stratum" mining protocol... to disable this behaviour, specify: protocol=JSON-RPC
+2022-Mar-05 00:50:29: Ethereum: trying to use "stratum" mining protocol... to disable this behaviour, specify: protocol=JSON-RPC
+2022-Mar-05 00:50:29: Ethereum: trying to use "stratum" mining protocol... to disable this behaviour, specify: protocol=JSON-RPC
+2022-Mar-05 00:50:29: Ethereum: trying to use "stratum" mining protocol... to disable this behaviour, specify: protocol=JSON-RPC
+2022-Mar-05 00:50:29: Ethereum: trying to use "stratum" mining protocol... to disable this behaviour, specify: protocol=JSON-RPC
+2022-Mar-05 00:50:29: Ethereum: trying to use "stratum" mining protocol... to disable this behaviour, specify: protocol=JSON-RPC
+2022-Mar-05 00:50:30: Ethereum: trying to use "stratum" mining protocol... to disable this behaviour, specify: protocol=JSON-RPC
+2022-Mar-05 00:50:30: Ethereum: trying to use "stratum" mining protocol... to disable this behaviour, specify: protocol=JSON-RPC
+2022-Mar-05 00:50:30: Ethereum: trying to use "stratum" mining protocol... to disable this behaviour, specify: protocol=JSON-RPC
+2022-Mar-05 00:50:30: Ethereum: trying to use "stratum" mining protocol... to disable this behaviour, specify: protocol=JSON-RPC
+2022-Mar-05 00:50:30: Ethereum: trying to use "stratum" mining protocol... to disable this behaviour, specify: protocol=JSON-RPC
+2022-Mar-05 00:50:31: Ethereum: trying to use "stratum" mining protocol... to disable this behaviour, specify: protocol=JSON-RPC
+2022-Mar-05 00:50:31: Ethereum: trying to use "stratum" mining protocol... to disable this behaviour, specify: protocol=JSON-RPC
+2022-Mar-05 00:50:31: Ethereum: trying to use "stratum" mining protocol... to disable this behaviour, specify: protocol=JSON-RPC

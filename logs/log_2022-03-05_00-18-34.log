@@ -1,0 +1,58 @@
+2022-Mar-05 00:18:34:                                    _                 
+2022-Mar-05 00:18:34:  _ __   __ _ _ __   ___  _ __ ___ (_)_ __   ___ _ __ 
+2022-Mar-05 00:18:34: | '_ \ / _` | '_ \ / _ \| '_ ` _ \| | '_ \ / _ \ '__|
+2022-Mar-05 00:18:34: | | | | (_| | | | | (_) | | | | | | | | | |  __/ |   
+2022-Mar-05 00:18:34: |_| |_|\__,_|_| |_|\___/|_| |_| |_|_|_| |_|\___|_|   
+2022-Mar-05 00:18:34: 
+2022-Mar-05 00:18:34: Version 3.5.2-cuda11
+2022-Mar-05 00:18:34: Started EthMan server on port 3333 without a password (read-only mode).
+2022-Mar-05 00:18:34: Started web interface on port 9090 without a password.
+2022-Mar-05 00:18:34: ------------------RandomX:------------------
+2022-Mar-05 00:18:34: Currency: Monero
+2022-Mar-05 00:18:34: Wallet: 38BNsGzMDWkiF4wevgUnAWYdBFY7436Aiu
+2022-Mar-05 00:18:34: Rig name: cleveland
+2022-Mar-05 00:18:34: Email: zzhou292@wisc.edu
+2022-Mar-05 00:18:34: Hashrate threshold to restart miner is not set
+2022-Mar-05 00:18:34: Number of rejected shares per hour to restart miner is not set
+2022-Mar-05 00:18:34: Using CPU threads: 16
+2022-Mar-05 00:18:34: Added pool: xmr-us-west1.nanopool.org:14433
+2022-Mar-05 00:18:34: Added pool: xmr-us-east1.nanopool.org:14433
+2022-Mar-05 00:18:34: Added pool: xmr-eu2.nanopool.org:14433
+2022-Mar-05 00:18:34: Added pool: xmr-eu1.nanopool.org:14433
+2022-Mar-05 00:18:34: Added pool: xmr-jp1.nanopool.org:14433
+2022-Mar-05 00:18:34: Added pool: xmr-asia1.nanopool.org:14433
+2022-Mar-05 00:18:34: Added pool: xmr-au1.nanopool.org:14433
+2022-Mar-05 00:18:34: Auto pool sorting is enabled
+2022-Mar-05 00:18:34: -------------Common parameters:-------------
+2022-Mar-05 00:18:34: Log path: ./logs/
+2022-Mar-05 00:18:34: Log is written to file
+2022-Mar-05 00:18:34: GPU watchdog is enabled
+2022-Mar-05 00:18:34: Never calling reboot.sh (always restarting the miner in case of errors). 
+2022-Mar-05 00:18:34: Setting up algorithm: RandomX
+2022-Mar-05 00:18:34: Wallet for Monero must be 95 or 106 characters long.
+2022-Mar-05 00:18:34: Connecting to pools...
+2022-Mar-05 00:18:34: Connected to pool: xmr-us-west1.nanopool.org:14433 | IP: 149.28.212.250 | ping: 51 ms.
+2022-Mar-05 00:18:34: Monero: trying to use "stratum" mining protocol... to disable this behaviour, specify: protocol=JSON-RPC
+2022-Mar-05 00:18:34: Monero: trying to use "stratum" mining protocol... to disable this behaviour, specify: protocol=JSON-RPC
+2022-Mar-05 00:18:34: Monero: trying to use "stratum" mining protocol... to disable this behaviour, specify: protocol=JSON-RPC
+2022-Mar-05 00:18:35: Monero: trying to use "stratum" mining protocol... to disable this behaviour, specify: protocol=JSON-RPC
+2022-Mar-05 00:18:35: Monero: trying to use "stratum" mining protocol... to disable this behaviour, specify: protocol=JSON-RPC
+2022-Mar-05 00:18:35: Monero: trying to use "stratum" mining protocol... to disable this behaviour, specify: protocol=JSON-RPC
+2022-Mar-05 00:18:35: Monero: trying to use "stratum" mining protocol... to disable this behaviour, specify: protocol=JSON-RPC
+2022-Mar-05 00:18:35: Monero: trying to use "stratum" mining protocol... to disable this behaviour, specify: protocol=JSON-RPC
+2022-Mar-05 00:18:36: Monero: trying to use "stratum" mining protocol... to disable this behaviour, specify: protocol=JSON-RPC
+2022-Mar-05 00:18:36: Monero: trying to use "stratum" mining protocol... to disable this behaviour, specify: protocol=JSON-RPC
+2022-Mar-05 00:18:36: Monero: trying to use "stratum" mining protocol... to disable this behaviour, specify: protocol=JSON-RPC
+2022-Mar-05 00:18:36: Monero: trying to use "stratum" mining protocol... to disable this behaviour, specify: protocol=JSON-RPC
+2022-Mar-05 00:18:36: Monero: trying to use "stratum" mining protocol... to disable this behaviour, specify: protocol=JSON-RPC
+2022-Mar-05 00:18:37: Monero: trying to use "stratum" mining protocol... to disable this behaviour, specify: protocol=JSON-RPC
+2022-Mar-05 00:18:37: Monero: trying to use "stratum" mining protocol... to disable this behaviour, specify: protocol=JSON-RPC
+2022-Mar-05 00:18:37: Monero: trying to use "stratum" mining protocol... to disable this behaviour, specify: protocol=JSON-RPC
+2022-Mar-05 00:18:37: Monero: trying to use "stratum" mining protocol... to disable this behaviour, specify: protocol=JSON-RPC
+2022-Mar-05 00:18:38: Monero: trying to use "stratum" mining protocol... to disable this behaviour, specify: protocol=JSON-RPC
+2022-Mar-05 00:18:38: Monero: trying to use "stratum" mining protocol... to disable this behaviour, specify: protocol=JSON-RPC
+2022-Mar-05 00:18:38: Monero: trying to use "stratum" mining protocol... to disable this behaviour, specify: protocol=JSON-RPC
+2022-Mar-05 00:18:38: Monero: trying to use "stratum" mining protocol... to disable this behaviour, specify: protocol=JSON-RPC
+2022-Mar-05 00:18:38: Monero: trying to use "stratum" mining protocol... to disable this behaviour, specify: protocol=JSON-RPC
+2022-Mar-05 00:18:39: Monero: trying to use "stratum" mining protocol... to disable this behaviour, specify: protocol=JSON-RPC
+2022-Mar-05 00:18:39: Monero: trying to use "stratum" mining protocol... to disable this behaviour, specify: protocol=JSON-RPC

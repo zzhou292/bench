@@ -1,0 +1,205 @@
+2022-Mar-05 22:00:41:                                    _                 
+2022-Mar-05 22:00:41:  _ __   __ _ _ __   ___  _ __ ___ (_)_ __   ___ _ __ 
+2022-Mar-05 22:00:41: | '_ \ / _` | '_ \ / _ \| '_ ` _ \| | '_ \ / _ \ '__|
+2022-Mar-05 22:00:41: | | | | (_| | | | | (_) | | | | | | | | | |  __/ |   
+2022-Mar-05 22:00:41: |_| |_|\__,_|_| |_|\___/|_| |_| |_|_|_| |_|\___|_|   
+2022-Mar-05 22:00:41: 
+2022-Mar-05 22:00:41: Version 3.5.2-cuda11
+2022-Mar-05 22:00:41: Started EthMan server on port 3333 without a password (read-only mode).
+2022-Mar-05 22:00:41: Started web interface on port 9090 without a password.
+2022-Mar-05 22:00:41: CUDA driver version is 11.6, runtime version is 11.1
+2022-Mar-05 22:00:41: Detected 2 devices
+2022-Mar-05 22:00:41: GPU 0 PCI 23:00.0, Platform: CUDA, Name: NVIDIA GeForce GTX 1080, 8119 MB available
+2022-Mar-05 22:00:41: GPU 1 PCI 2d:00.0, Platform: CUDA, Name: NVIDIA GeForce GTX 1080, 8116 MB available
+2022-Mar-05 22:00:41: -------------------Ethash:------------------
+2022-Mar-05 22:00:41: Currency: Ethash-unknown
+2022-Mar-05 22:00:41: Wallet: 0xF68CbDa32a082C9168AB1F084042242C3a09b6e6
+2022-Mar-05 22:00:41: Rig name: cleveland
+2022-Mar-05 22:00:41: Email: zzhou292@wisc.edu
+2022-Mar-05 22:00:41: Hashrate threshold to restart miner is not set
+2022-Mar-05 22:00:41: Number of rejected shares per hour to restart miner is not set
+2022-Mar-05 22:00:41: Added pool: 20.115.37.250:8082
+2022-Mar-05 22:00:41: Auto pool sorting is disabled
+2022-Mar-05 22:00:41: Using all GPU devices
+2022-Mar-05 22:00:41: Memory tweak: 1,1
+2022-Mar-05 22:00:41: -------------Common parameters:-------------
+2022-Mar-05 22:00:41: Log path: ./logs/
+2022-Mar-05 22:00:41: Log is written to file
+2022-Mar-05 22:00:41: GPU watchdog is enabled
+2022-Mar-05 22:00:41: Never calling reboot.sh (always restarting the miner in case of errors). 
+2022-Mar-05 22:00:41: Setting up algorithm: Ethash
+2022-Mar-05 22:00:41: Could not apply power limit for device #0 Could not set power limit: program needs to be launched using root/admin privileges.
+2022-Mar-05 22:00:41: Could not apply power limit for device #1 Could not set power limit: program needs to be launched using root/admin privileges.
+2022-Mar-05 22:00:42: Connecting to pools...
+2022-Mar-05 22:00:42: Connected to pool: 20.115.37.250:8082
+2022-Mar-05 22:00:43: New job from 20.115.37.250:8082 | share difficulty = 10000 MH, epoch 477 (4839 MB)
+2022-Mar-05 22:00:43: Ethereum - Total speed: 0.000 H/s, Total shares: 0 Rejected: 0, Time: 00:02
+2022-Mar-05 22:00:43: Ethereum: GPU 0 0.000 H/s, GPU 1 0.000 H/s
+2022-Mar-05 22:00:43: GPU0 t=49°C fan 16% power 36.80W, GPU1 t=66°C fan 30% power 50.34W. Total power: 87.14W
+2022-Mar-05 22:00:43: New job from 20.115.37.250:8082
+2022-Mar-05 22:00:43: Ethereum - Total speed: 0.000 H/s, Total shares: 0 Rejected: 0, Time: 00:02
+2022-Mar-05 22:00:43: Ethereum: GPU 0 0.000 H/s, GPU 1 0.000 H/s
+2022-Mar-05 22:00:43: Ethereum last 10 min - GPU 0: 0.000 H/s, GPU 1: 0.000 H/s. Total: 0.000 H/s.
+2022-Mar-05 22:00:46: New job from 20.115.37.250:8082
+2022-Mar-05 22:00:46: Ethereum - Total speed: 0.000 H/s, Total shares: 0 Rejected: 0, Time: 00:05
+2022-Mar-05 22:00:46: Ethereum: GPU 0 0.000 H/s, GPU 1 0.000 H/s
+2022-Mar-05 22:00:46: GPU0 t=50°C fan 16% power 91.33W, GPU1 t=68°C fan 59% power 69.72W. Total power: 161.05W
+2022-Mar-05 22:00:51: New job from 20.115.37.250:8082
+2022-Mar-05 22:00:51: Ethereum - Total speed: 0.000 H/s, Total shares: 0 Rejected: 0, Time: 00:09
+2022-Mar-05 22:00:51: Ethereum: GPU 0 0.000 H/s, GPU 1 0.000 H/s
+2022-Mar-05 22:00:57: New job from 20.115.37.250:8082
+2022-Mar-05 22:00:57: Ethereum - Total speed: 0.000 H/s, Total shares: 0 Rejected: 0, Time: 00:15
+2022-Mar-05 22:00:57: Ethereum: GPU 0 0.000 H/s, GPU 1 0.000 H/s
+2022-Mar-05 22:00:57: GPU0 t=53°C fan 15% power 88.56W, GPU1 t=69°C fan 32% power 80.83W. Total power: 169.40W
+2022-Mar-05 22:00:59: GPU1: 4839 MB DAG generated in 14.00 seconds
+2022-Mar-05 22:01:00: GPU0: 4839 MB DAG generated in 14.92 seconds
+2022-Mar-05 22:01:03: New job from 20.115.37.250:8082
+2022-Mar-05 22:01:03: Ethereum - Total speed: 0.000 H/s, Total shares: 0 Rejected: 0, Time: 00:21
+2022-Mar-05 22:01:03: Ethereum: GPU 0 0.000 H/s, GPU 1 0.000 H/s
+2022-Mar-05 22:01:03: Ethereum last 10 min - GPU 0: 0.000 H/s, GPU 1: 0.000 H/s. Total: 0.000 H/s.
+2022-Mar-05 22:01:05: New job from 20.115.37.250:8082
+2022-Mar-05 22:01:05: Ethereum - Total speed: 41.667 MH/s, Total shares: 0 Rejected: 0, Time: 00:23
+2022-Mar-05 22:01:05: Ethereum: GPU 0 21.316 MH/s, GPU 1 20.351 MH/s
+2022-Mar-05 22:01:05: GPU0 t=54°C fan 15% power 88.92W, GPU1 t=70°C fan 28% power 89.99W. Total power: 178.91W
+2022-Mar-05 22:01:10: New job from 20.115.37.250:8082
+2022-Mar-05 22:01:10: Ethereum - Total speed: 41.558 MH/s, Total shares: 0 Rejected: 0, Time: 00:28
+2022-Mar-05 22:01:10: Ethereum: GPU 0 21.212 MH/s, GPU 1 20.345 MH/s
+2022-Mar-05 22:01:16: New job from 20.115.37.250:8082
+2022-Mar-05 22:01:16: Ethereum - Total speed: 41.554 MH/s, Total shares: 0 Rejected: 0, Time: 00:34
+2022-Mar-05 22:01:16: Ethereum: GPU 0 21.218 MH/s, GPU 1 20.336 MH/s
+2022-Mar-05 22:01:16: GPU0 t=55°C fan 15% power 89.27W, GPU1 t=70°C fan 24% power 89.99W. Total power: 179.26W
+2022-Mar-05 22:01:22: New job from 20.115.37.250:8082
+2022-Mar-05 22:01:22: Ethereum - Total speed: 41.552 MH/s, Total shares: 0 Rejected: 0, Time: 00:40
+2022-Mar-05 22:01:22: Ethereum: GPU 0 21.228 MH/s, GPU 1 20.324 MH/s
+2022-Mar-05 22:01:22: Ethereum last 10 min - GPU 0: 21.232 MH/s, GPU 1: 20.339 MH/s. Total: 41.571 MH/s.
+2022-Mar-05 22:01:22: New job from 20.115.37.250:8082
+2022-Mar-05 22:01:22: Ethereum - Total speed: 41.648 MH/s, Total shares: 0 Rejected: 0, Time: 00:41
+2022-Mar-05 22:01:22: Ethereum: GPU 0 21.235 MH/s, GPU 1 20.414 MH/s
+2022-Mar-05 22:01:22: GPU0 t=57°C fan 15% power 109.12W, GPU1 t=72°C fan 22% power 107.06W. Total power: 216.18W
+2022-Mar-05 22:01:22: New job from 20.115.37.250:8082
+2022-Mar-05 22:01:22: Ethereum - Total speed: 41.919 MH/s, Total shares: 0 Rejected: 0, Time: 00:41
+2022-Mar-05 22:01:22: Ethereum: GPU 0 21.243 MH/s, GPU 1 20.676 MH/s
+2022-Mar-05 22:01:27: New job from 20.115.37.250:8082
+2022-Mar-05 22:01:27: Ethereum - Total speed: 42.164 MH/s, Total shares: 0 Rejected: 0, Time: 00:45
+2022-Mar-05 22:01:27: Ethereum: GPU 0 21.251 MH/s, GPU 1 20.913 MH/s
+2022-Mar-05 22:01:27: GPU0 t=58°C fan 16% power 105.08W, GPU1 t=73°C fan 22% power 109.00W. Total power: 214.08W
+2022-Mar-05 22:01:27: New job from 20.115.37.250:8082
+2022-Mar-05 22:01:27: Ethereum - Total speed: 42.383 MH/s, Total shares: 0 Rejected: 0, Time: 00:46
+2022-Mar-05 22:01:27: Ethereum: GPU 0 21.258 MH/s, GPU 1 21.125 MH/s
+2022-Mar-05 22:01:27: Ethereum last 10 min - GPU 0: 21.235 MH/s, GPU 1: 20.436 MH/s. Total: 41.671 MH/s.
+2022-Mar-05 22:01:27: New job from 20.115.37.250:8082
+2022-Mar-05 22:01:27: Ethereum - Total speed: 42.579 MH/s, Total shares: 0 Rejected: 0, Time: 00:46
+2022-Mar-05 22:01:27: Ethereum: GPU 0 21.264 MH/s, GPU 1 21.315 MH/s
+2022-Mar-05 22:01:27: GPU0 t=58°C fan 16% power 107.36W, GPU1 t=73°C fan 21% power 106.87W. Total power: 214.24W
+2022-Mar-05 22:01:27: New job from 20.115.37.250:8082
+2022-Mar-05 22:01:27: Ethereum - Total speed: 42.754 MH/s, Total shares: 0 Rejected: 0, Time: 00:46
+2022-Mar-05 22:01:27: Ethereum: GPU 0 21.270 MH/s, GPU 1 21.484 MH/s
+2022-Mar-05 22:01:31: New job from 20.115.37.250:8082
+2022-Mar-05 22:01:31: Ethereum - Total speed: 42.915 MH/s, Total shares: 0 Rejected: 0, Time: 00:50
+2022-Mar-05 22:01:31: Ethereum: GPU 0 21.276 MH/s, GPU 1 21.640 MH/s
+2022-Mar-05 22:01:31: GPU0 t=59°C fan 18% power 107.23W, GPU1 t=73°C fan 46% power 107.43W. Total power: 214.66W
+2022-Mar-05 22:01:33: New job from 20.115.37.250:8082
+2022-Mar-05 22:01:33: Ethereum - Total speed: 42.301 MH/s, Total shares: 0 Rejected: 0, Time: 00:52
+2022-Mar-05 22:01:33: Ethereum: GPU 0 20.526 MH/s, GPU 1 21.775 MH/s
+2022-Mar-05 22:01:33: Ethereum last 10 min - GPU 0: 21.214 MH/s, GPU 1: 20.697 MH/s. Total: 41.911 MH/s.
+2022-Mar-05 22:01:37: New job from 20.115.37.250:8082
+2022-Mar-05 22:01:37: Ethereum - Total speed: 41.336 MH/s, Total shares: 0 Rejected: 0, Time: 00:56
+2022-Mar-05 22:01:37: Ethereum: GPU 0 19.434 MH/s, GPU 1 21.902 MH/s
+2022-Mar-05 22:01:37: GPU0 t=59°C fan 22% power 107.79W, GPU1 t=74°C fan 25% power 109.34W. Total power: 217.13W
+2022-Mar-05 22:01:37: New job from 20.115.37.250:8082
+2022-Mar-05 22:01:37: Ethereum - Total speed: 40.463 MH/s, Total shares: 0 Rejected: 0, Time: 00:56
+2022-Mar-05 22:01:37: Ethereum: GPU 0 18.451 MH/s, GPU 1 22.012 MH/s
+2022-Mar-05 22:01:40: New job from 20.115.37.250:8082
+2022-Mar-05 22:01:40: Ethereum - Total speed: 40.563 MH/s, Total shares: 0 Rejected: 0, Time: 00:58
+2022-Mar-05 22:01:40: Ethereum: GPU 0 18.451 MH/s, GPU 1 22.112 MH/s
+2022-Mar-05 22:01:40: GPU0 t=60°C fan 23% power 107.06W, GPU1 t=74°C fan 25% power 106.95W. Total power: 214.01W
+2022-Mar-05 22:01:43: New job from 20.115.37.250:8082
+2022-Mar-05 22:01:43: Ethereum - Total speed: 39.770 MH/s, Total shares: 0 Rejected: 0, Time: 01:02
+2022-Mar-05 22:01:43: Ethereum: GPU 0 17.572 MH/s, GPU 1 22.199 MH/s
+2022-Mar-05 22:01:43: Ethereum last 10 min - GPU 0: 20.626 MH/s, GPU 1: 21.030 MH/s. Total: 41.656 MH/s.
+2022-Mar-05 22:01:43: New job from 20.115.37.250:8082
+2022-Mar-05 22:01:43: Ethereum - Total speed: 39.848 MH/s, Total shares: 0 Rejected: 0, Time: 01:02
+2022-Mar-05 22:01:43: Ethereum: GPU 0 17.572 MH/s, GPU 1 22.276 MH/s
+2022-Mar-05 22:01:43: GPU0 t=60°C fan 25% power 107.78W, GPU1 t=75°C fan 23% power 107.04W. Total power: 214.82W
+2022-Mar-05 22:01:46: New job from 20.115.37.250:8082
+2022-Mar-05 22:01:46: Ethereum - Total speed: 39.378 MH/s, Total shares: 0 Rejected: 0, Time: 01:05
+2022-Mar-05 22:01:46: Ethereum: GPU 0 17.025 MH/s, GPU 1 22.353 MH/s
+2022-Mar-05 22:01:46: New job from 20.115.37.250:8082
+2022-Mar-05 22:01:46: Ethereum - Total speed: 38.704 MH/s, Total shares: 0 Rejected: 0, Time: 01:05
+2022-Mar-05 22:01:46: Ethereum: GPU 0 16.288 MH/s, GPU 1 22.416 MH/s
+2022-Mar-05 22:01:46: GPU0 t=60°C fan 25% power 105.64W, GPU1 t=75°C fan 30% power 108.14W. Total power: 213.79W
+2022-Mar-05 22:01:48: New job from 20.115.37.250:8082
+2022-Mar-05 22:01:48: Ethereum - Total speed: 38.099 MH/s, Total shares: 0 Rejected: 0, Time: 01:07
+2022-Mar-05 22:01:48: Ethereum: GPU 0 15.620 MH/s, GPU 1 22.479 MH/s
+2022-Mar-05 22:01:48: Ethereum last 10 min - GPU 0: 20.140 MH/s, GPU 1: 21.197 MH/s. Total: 41.337 MH/s.
+2022-Mar-05 22:01:48: New job from 20.115.37.250:8082
+2022-Mar-05 22:01:48: Ethereum - Total speed: 38.099 MH/s, Total shares: 0 Rejected: 0, Time: 01:07
+2022-Mar-05 22:01:48: Ethereum: GPU 0 15.620 MH/s, GPU 1 22.479 MH/s
+2022-Mar-05 22:01:48: GPU0 t=61°C fan 26% power 108.22W, GPU1 t=75°C fan 28% power 109.28W. Total power: 217.50W
+2022-Mar-05 22:01:49: New job from 20.115.37.250:8082
+2022-Mar-05 22:01:49: Ethereum - Total speed: 37.550 MH/s, Total shares: 0 Rejected: 0, Time: 01:07
+2022-Mar-05 22:01:49: Ethereum: GPU 0 15.019 MH/s, GPU 1 22.531 MH/s
+2022-Mar-05 22:01:49: New job from 20.115.37.250:8082
+2022-Mar-05 22:01:50: Ethereum - Total speed: 37.062 MH/s, Total shares: 0 Rejected: 0, Time: 01:08
+2022-Mar-05 22:01:50: Ethereum: GPU 0 14.497 MH/s, GPU 1 22.565 MH/s
+2022-Mar-05 22:01:50: GPU0 t=61°C fan 27% power 108.27W, GPU1 t=75°C fan 26% power 107.04W. Total power: 215.31W
+2022-Mar-05 22:01:53: New job from 20.115.37.250:8082
+2022-Mar-05 22:01:53: Ethereum - Total speed: 36.624 MH/s, Total shares: 0 Rejected: 0, Time: 01:11
+2022-Mar-05 22:01:53: Ethereum: GPU 0 14.011 MH/s, GPU 1 22.613 MH/s
+2022-Mar-05 22:01:53: Ethereum last 10 min - GPU 0: 19.627 MH/s, GPU 1: 21.321 MH/s. Total: 40.948 MH/s.
+2022-Mar-05 22:01:53: New job from 20.115.37.250:8082
+2022-Mar-05 22:01:53: Ethereum - Total speed: 36.624 MH/s, Total shares: 0 Rejected: 0, Time: 01:11
+2022-Mar-05 22:01:53: Ethereum: GPU 0 14.011 MH/s, GPU 1 22.613 MH/s
+2022-Mar-05 22:01:53: GPU0 t=61°C fan 28% power 108.56W, GPU1 t=75°C fan 29% power 108.07W. Total power: 216.63W
+2022-Mar-05 22:01:56: New job from 20.115.37.250:8082
+2022-Mar-05 22:01:56: Ethereum - Total speed: 36.222 MH/s, Total shares: 0 Rejected: 0, Time: 01:15
+2022-Mar-05 22:01:56: Ethereum: GPU 0 13.571 MH/s, GPU 1 22.651 MH/s
+2022-Mar-05 22:01:59: New job from 20.115.37.250:8082
+2022-Mar-05 22:01:59: Ethereum - Total speed: 36.226 MH/s, Total shares: 0 Rejected: 0, Time: 01:17
+2022-Mar-05 22:01:59: Ethereum: GPU 0 13.537 MH/s, GPU 1 22.689 MH/s
+2022-Mar-05 22:01:59: GPU0 t=61°C fan 30% power 109.11W, GPU1 t=76°C fan 29% power 109.62W. Total power: 218.73W
+2022-Mar-05 22:02:02: New job from 20.115.37.250:8082
+2022-Mar-05 22:02:02: Ethereum - Total speed: 36.924 MH/s, Total shares: 0 Rejected: 0, Time: 01:21
+2022-Mar-05 22:02:02: Ethereum: GPU 0 14.316 MH/s, GPU 1 22.608 MH/s
+2022-Mar-05 22:02:02: Ethereum last 10 min - GPU 0: 18.658 MH/s, GPU 1: 21.541 MH/s. Total: 40.199 MH/s.
+2022-Mar-05 22:02:04: New job from 20.115.37.250:8082
+2022-Mar-05 22:02:04: Ethereum - Total speed: 37.452 MH/s, Total shares: 0 Rejected: 0, Time: 01:23
+2022-Mar-05 22:02:04: Ethereum: GPU 0 15.017 MH/s, GPU 1 22.435 MH/s
+2022-Mar-05 22:02:04: GPU0 t=61°C fan 30% power 106.47W, GPU1 t=76°C fan 27% power 107.42W. Total power: 213.88W
+2022-Mar-05 22:02:08: New job from 20.115.37.250:8082
+2022-Mar-05 22:02:08: Ethereum - Total speed: 37.974 MH/s, Total shares: 0 Rejected: 0, Time: 01:27
+2022-Mar-05 22:02:08: Ethereum: GPU 0 15.648 MH/s, GPU 1 22.326 MH/s
+2022-Mar-05 22:02:09: New job from 20.115.37.250:8082
+2022-Mar-05 22:02:09: Ethereum - Total speed: 38.526 MH/s, Total shares: 0 Rejected: 0, Time: 01:27
+2022-Mar-05 22:02:09: Ethereum: GPU 0 16.216 MH/s, GPU 1 22.311 MH/s
+2022-Mar-05 22:02:09: GPU0 t=62°C fan 31% power 106.43W, GPU1 t=77°C fan 33% power 108.74W. Total power: 215.18W
+2022-Mar-05 22:02:11: New job from 20.115.37.250:8082
+2022-Mar-05 22:02:11: Ethereum - Total speed: 39.079 MH/s, Total shares: 0 Rejected: 0, Time: 01:30
+2022-Mar-05 22:02:11: Ethereum: GPU 0 16.727 MH/s, GPU 1 22.352 MH/s
+2022-Mar-05 22:02:11: Ethereum last 10 min - GPU 0: 18.234 MH/s, GPU 1: 21.656 MH/s. Total: 39.890 MH/s.
+2022-Mar-05 22:02:13: New job from 20.115.37.250:8082
+2022-Mar-05 22:02:13: Ethereum - Total speed: 39.574 MH/s, Total shares: 0 Rejected: 0, Time: 01:32
+2022-Mar-05 22:02:13: Ethereum: GPU 0 17.187 MH/s, GPU 1 22.388 MH/s
+2022-Mar-05 22:02:13: GPU0 t=62°C fan 32% power 109.35W, GPU1 t=77°C fan 34% power 109.03W. Total power: 218.38W
+2022-Mar-05 22:02:16: New job from 20.115.37.250:8082
+2022-Mar-05 22:02:16: Ethereum - Total speed: 40.005 MH/s, Total shares: 0 Rejected: 0, Time: 01:35
+2022-Mar-05 22:02:16: Ethereum: GPU 0 17.600 MH/s, GPU 1 22.404 MH/s
+2022-Mar-05 22:02:19: New job from 20.115.37.250:8082
+2022-Mar-05 22:02:19: Ethereum - Total speed: 40.380 MH/s, Total shares: 0 Rejected: 0, Time: 01:38
+2022-Mar-05 22:02:19: Ethereum: GPU 0 17.973 MH/s, GPU 1 22.407 MH/s
+2022-Mar-05 22:02:19: GPU0 t=62°C fan 33% power 108.38W, GPU1 t=77°C fan 56% power 109.69W. Total power: 218.06W
+2022-Mar-05 22:02:22: New job from 20.115.37.250:8082
+2022-Mar-05 22:02:22: Ethereum - Total speed: 40.657 MH/s, Total shares: 0 Rejected: 0, Time: 01:41
+2022-Mar-05 22:02:22: Ethereum: GPU 0 18.309 MH/s, GPU 1 22.348 MH/s
+2022-Mar-05 22:02:22: Ethereum last 10 min - GPU 0: 18.145 MH/s, GPU 1: 21.762 MH/s. Total: 39.907 MH/s.
+2022-Mar-05 22:02:25: New job from 20.115.37.250:8082
+2022-Mar-05 22:02:25: Ethereum - Total speed: 40.890 MH/s, Total shares: 0 Rejected: 0, Time: 01:44
+2022-Mar-05 22:02:25: Ethereum: GPU 0 18.610 MH/s, GPU 1 22.280 MH/s
+2022-Mar-05 22:02:25: GPU0 t=62°C fan 34% power 106.52W, GPU1 t=78°C fan 29% power 85.88W. Total power: 192.40W
+2022-Mar-05 22:02:25: New job from 20.115.37.250:8082
+2022-Mar-05 22:02:25: Ethereum - Total speed: 41.102 MH/s, Total shares: 0 Rejected: 0, Time: 01:44
+2022-Mar-05 22:02:25: Ethereum: GPU 0 18.882 MH/s, GPU 1 22.220 MH/s
+2022-Mar-05 22:02:25: New job from 20.115.37.250:8082
+2022-Mar-05 22:02:25: Ethereum - Total speed: 41.102 MH/s, Total shares: 0 Rejected: 0, Time: 01:44
+2022-Mar-05 22:02:25: Ethereum: GPU 0 18.882 MH/s, GPU 1 22.220 MH/s
+2022-Mar-05 22:02:25: GPU0 t=63°C fan 33% power 108.37W, GPU1 t=78°C fan 29% power 98.75W. Total power: 207.12W

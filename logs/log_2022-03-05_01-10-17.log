@@ -1,0 +1,44 @@
+2022-Mar-05 01:10:17:                                    _                 
+2022-Mar-05 01:10:17:  _ __   __ _ _ __   ___  _ __ ___ (_)_ __   ___ _ __ 
+2022-Mar-05 01:10:17: | '_ \ / _` | '_ \ / _ \| '_ ` _ \| | '_ \ / _ \ '__|
+2022-Mar-05 01:10:17: | | | | (_| | | | | (_) | | | | | | | | | |  __/ |   
+2022-Mar-05 01:10:17: |_| |_|\__,_|_| |_|\___/|_| |_| |_|_|_| |_|\___|_|   
+2022-Mar-05 01:10:17: 
+2022-Mar-05 01:10:17: Version 3.5.2-cuda11
+2022-Mar-05 01:10:17: Started EthMan server on port 3333 without a password (read-only mode).
+2022-Mar-05 01:10:17: Started web interface on port 9090 without a password.
+2022-Mar-05 01:10:17: CUDA driver version is 11.6, runtime version is 11.1
+2022-Mar-05 01:10:17: Detected 2 devices
+2022-Mar-05 01:10:17: GPU 0 PCI 23:00.0, Platform: CUDA, Name: NVIDIA GeForce GTX 1080, 8119 MB available
+2022-Mar-05 01:10:17: GPU 1 PCI 2d:00.0, Platform: CUDA, Name: NVIDIA GeForce GTX 1080, 8116 MB available
+2022-Mar-05 01:10:17: -------------------Ethash:------------------
+2022-Mar-05 01:10:17: Currency: Ethereum
+2022-Mar-05 01:10:17: Wallet: 0xF68CbDa32a082C9168AB1F084042242C3a09b6e6
+2022-Mar-05 01:10:17: Rig name: cleveland
+2022-Mar-05 01:10:17: Email: zzhou292@wisc.edu
+2022-Mar-05 01:10:17: Hashrate threshold to restart miner is not set
+2022-Mar-05 01:10:17: Number of rejected shares per hour to restart miner is not set
+2022-Mar-05 01:10:17: Added pool: eth-us-east1.nanopool.org:9999
+2022-Mar-05 01:10:17: Auto pool sorting is disabled
+2022-Mar-05 01:10:17: Using all GPU devices
+2022-Mar-05 01:10:17: Memory tweak: 1,1
+2022-Mar-05 01:10:17: -------------Common parameters:-------------
+2022-Mar-05 01:10:17: Log path: ./logs/
+2022-Mar-05 01:10:17: Log is written to file
+2022-Mar-05 01:10:17: GPU watchdog is enabled
+2022-Mar-05 01:10:17: Never calling reboot.sh (always restarting the miner in case of errors). 
+2022-Mar-05 01:10:17: Setting up algorithm: Ethash
+2022-Mar-05 01:10:18: Connecting to pools...
+2022-Mar-05 01:10:19: Connected to pool: eth-us-east1.nanopool.org:9999 | IP: 142.44.243.6
+2022-Mar-05 01:10:19: New job from eth-us-east1.nanopool.org:9999 | share difficulty = 10000 MH, epoch 477 (4839 MB)
+2022-Mar-05 01:10:19: Ethereum - Total speed: 0.000 H/s, Total shares: 0 Rejected: 0, Time: 00:01
+2022-Mar-05 01:10:19: Ethereum: GPU 0 0.000 H/s, GPU 1 0.000 H/s
+2022-Mar-05 01:10:19: GPU0 t=48°C fan 16% power 36.80W, GPU1 t=66°C fan 27% power 50.08W. Total power: 86.88W
+2022-Mar-05 01:10:19: New job from eth-us-east1.nanopool.org:9999
+2022-Mar-05 01:10:19: Ethereum - Total speed: 0.000 H/s, Total shares: 0 Rejected: 0, Time: 00:01
+2022-Mar-05 01:10:19: Ethereum: GPU 0 0.000 H/s, GPU 1 0.000 H/s
+2022-Mar-05 01:10:19: Ethereum last 10 min - GPU 0: 0.000 H/s, GPU 1: 0.000 H/s. Total: 0.000 H/s.
+2022-Mar-05 01:10:20: New job from eth-us-east1.nanopool.org:9999
+2022-Mar-05 01:10:20: Ethereum - Total speed: 0.000 H/s, Total shares: 0 Rejected: 0, Time: 00:03
+2022-Mar-05 01:10:20: Ethereum: GPU 0 0.000 H/s, GPU 1 0.000 H/s
+2022-Mar-05 01:10:20: GPU0 t=48°C fan 16% power 36.81W, GPU1 t=67°C fan 31% power 50.08W. Total power: 86.89W

@@ -1,0 +1,573 @@
+2022-Mar-05 03:49:56:                                    _                 
+2022-Mar-05 03:49:56:  _ __   __ _ _ __   ___  _ __ ___ (_)_ __   ___ _ __ 
+2022-Mar-05 03:49:56: | '_ \ / _` | '_ \ / _ \| '_ ` _ \| | '_ \ / _ \ '__|
+2022-Mar-05 03:49:56: | | | | (_| | | | | (_) | | | | | | | | | |  __/ |   
+2022-Mar-05 03:49:56: |_| |_|\__,_|_| |_|\___/|_| |_| |_|_|_| |_|\___|_|   
+2022-Mar-05 03:49:56: 
+2022-Mar-05 03:49:56: Version 3.5.2-cuda11
+2022-Mar-05 03:49:56: Started EthMan server on port 3333 without a password (read-only mode).
+2022-Mar-05 03:49:56: Started web interface on port 9090 without a password.
+2022-Mar-05 03:49:56: CUDA driver version is 11.6, runtime version is 11.1
+2022-Mar-05 03:49:56: Detected 2 devices
+2022-Mar-05 03:49:56: GPU 0 PCI 23:00.0, Platform: CUDA, Name: NVIDIA GeForce GTX 1080, 8119 MB available
+2022-Mar-05 03:49:56: GPU 1 PCI 2d:00.0, Platform: CUDA, Name: NVIDIA GeForce GTX 1080, 8116 MB available
+2022-Mar-05 03:49:56: -------------------Ethash:------------------
+2022-Mar-05 03:49:56: Currency: Ethereum
+2022-Mar-05 03:49:56: Wallet: 0xF68CbDa32a082C9168AB1F084042242C3a09b6e6
+2022-Mar-05 03:49:56: Rig name: cleveland
+2022-Mar-05 03:49:56: Email: zzhou292@wisc.edu
+2022-Mar-05 03:49:56: Hashrate threshold to restart miner is not set
+2022-Mar-05 03:49:56: Number of rejected shares per hour to restart miner is not set
+2022-Mar-05 03:49:56: Added pool: eth-us-east1.nanopool.org:9999
+2022-Mar-05 03:49:56: Auto pool sorting is disabled
+2022-Mar-05 03:49:56: Using all GPU devices
+2022-Mar-05 03:49:56: Memory tweak: 1,1
+2022-Mar-05 03:49:56: -------------Common parameters:-------------
+2022-Mar-05 03:49:56: Log path: ./logs/
+2022-Mar-05 03:49:56: Log is written to file
+2022-Mar-05 03:49:56: GPU watchdog is enabled
+2022-Mar-05 03:49:56: Never calling reboot.sh (always restarting the miner in case of errors). 
+2022-Mar-05 03:49:56: Setting up algorithm: Ethash
+2022-Mar-05 03:49:56: Could not apply power limit for device #0 Could not set power limit: program needs to be launched using root/admin privileges.
+2022-Mar-05 03:49:56: Could not apply power limit for device #1 Could not set power limit: program needs to be launched using root/admin privileges.
+2022-Mar-05 03:49:57: Connecting to pools...
+2022-Mar-05 03:49:58: Connected to pool: eth-us-east1.nanopool.org:9999 | IP: 192.99.69.170
+2022-Mar-05 03:49:58: New job from eth-us-east1.nanopool.org:9999 | share difficulty = 10000 MH, epoch 477 (4839 MB)
+2022-Mar-05 03:49:58: Ethereum - Total speed: 0.000 H/s, Total shares: 0 Rejected: 0, Time: 00:01
+2022-Mar-05 03:49:58: Ethereum: GPU 0 0.000 H/s, GPU 1 0.000 H/s
+2022-Mar-05 03:49:58: GPU0 t=54°C fan 38% power 37.90W, GPU1 t=73°C fan 97% power 52.41W. Total power: 90.31W
+2022-Mar-05 03:49:58: New job from eth-us-east1.nanopool.org:9999
+2022-Mar-05 03:49:58: Ethereum - Total speed: 0.000 H/s, Total shares: 0 Rejected: 0, Time: 00:01
+2022-Mar-05 03:49:58: Ethereum: GPU 0 0.000 H/s, GPU 1 0.000 H/s
+2022-Mar-05 03:49:58: Ethereum last 10 min - GPU 0: 0.000 H/s, GPU 1: 0.000 H/s. Total: 0.000 H/s.
+2022-Mar-05 03:50:00: New job from eth-us-east1.nanopool.org:9999
+2022-Mar-05 03:50:00: Ethereum - Total speed: 0.000 H/s, Total shares: 0 Rejected: 0, Time: 00:03
+2022-Mar-05 03:50:00: Ethereum: GPU 0 0.000 H/s, GPU 1 0.000 H/s
+2022-Mar-05 03:50:00: GPU0 t=54°C fan 38% power 37.91W, GPU1 t=73°C fan 100% power 52.16W. Total power: 90.07W
+2022-Mar-05 03:50:00: New job from eth-us-east1.nanopool.org:9999
+2022-Mar-05 03:50:00: Ethereum - Total speed: 0.000 H/s, Total shares: 0 Rejected: 0, Time: 00:03
+2022-Mar-05 03:50:00: Ethereum: GPU 0 0.000 H/s, GPU 1 0.000 H/s
+2022-Mar-05 03:50:03: New job from eth-us-east1.nanopool.org:9999
+2022-Mar-05 03:50:03: Ethereum - Total speed: 0.000 H/s, Total shares: 0 Rejected: 0, Time: 00:07
+2022-Mar-05 03:50:03: Ethereum: GPU 0 0.000 H/s, GPU 1 0.000 H/s
+2022-Mar-05 03:50:03: GPU0 t=57°C fan 38% power 103.30W, GPU1 t=80°C fan 38% power 129.28W. Total power: 232.58W
+2022-Mar-05 03:50:03: New job from eth-us-east1.nanopool.org:9999
+2022-Mar-05 03:50:03: Ethereum - Total speed: 0.000 H/s, Total shares: 0 Rejected: 0, Time: 00:07
+2022-Mar-05 03:50:03: Ethereum: GPU 0 0.000 H/s, GPU 1 0.000 H/s
+2022-Mar-05 03:50:03: Ethereum last 10 min - GPU 0: 0.000 H/s, GPU 1: 0.000 H/s. Total: 0.000 H/s.
+2022-Mar-05 03:50:06: New job from eth-us-east1.nanopool.org:9999
+2022-Mar-05 03:50:06: Ethereum - Total speed: 0.000 H/s, Total shares: 0 Rejected: 0, Time: 00:09
+2022-Mar-05 03:50:06: Ethereum: GPU 0 0.000 H/s, GPU 1 0.000 H/s
+2022-Mar-05 03:50:06: GPU0 t=57°C fan 37% power 105.36W, GPU1 t=81°C fan 44% power 131.80W. Total power: 237.16W
+2022-Mar-05 03:50:06: New job from eth-us-east1.nanopool.org:9999
+2022-Mar-05 03:50:06: Ethereum - Total speed: 0.000 H/s, Total shares: 0 Rejected: 0, Time: 00:09
+2022-Mar-05 03:50:06: Ethereum: GPU 0 0.000 H/s, GPU 1 0.000 H/s
+2022-Mar-05 03:50:07: New job from eth-us-east1.nanopool.org:9999
+2022-Mar-05 03:50:07: Ethereum - Total speed: 0.000 H/s, Total shares: 0 Rejected: 0, Time: 00:11
+2022-Mar-05 03:50:07: Ethereum: GPU 0 0.000 H/s, GPU 1 0.000 H/s
+2022-Mar-05 03:50:07: GPU0 t=57°C fan 37% power 102.36W, GPU1 t=81°C fan 45% power 131.58W. Total power: 233.95W
+2022-Mar-05 03:50:07: New job from eth-us-east1.nanopool.org:9999
+2022-Mar-05 03:50:07: Ethereum - Total speed: 0.000 H/s, Total shares: 0 Rejected: 0, Time: 00:11
+2022-Mar-05 03:50:07: Ethereum: GPU 0 0.000 H/s, GPU 1 0.000 H/s
+2022-Mar-05 03:50:07: Ethereum last 10 min - GPU 0: 0.000 H/s, GPU 1: 0.000 H/s. Total: 0.000 H/s.
+2022-Mar-05 03:50:11: New job from eth-us-east1.nanopool.org:9999
+2022-Mar-05 03:50:11: Ethereum - Total speed: 0.000 H/s, Total shares: 0 Rejected: 0, Time: 00:14
+2022-Mar-05 03:50:11: Ethereum: GPU 0 0.000 H/s, GPU 1 0.000 H/s
+2022-Mar-05 03:50:11: GPU0 t=58°C fan 37% power 105.05W, GPU1 t=82°C fan 42% power 131.90W. Total power: 236.95W
+2022-Mar-05 03:50:11: New job from eth-us-east1.nanopool.org:9999
+2022-Mar-05 03:50:11: Ethereum - Total speed: 0.000 H/s, Total shares: 0 Rejected: 0, Time: 00:14
+2022-Mar-05 03:50:11: Ethereum: GPU 0 0.000 H/s, GPU 1 0.000 H/s
+2022-Mar-05 03:50:14: New job from eth-us-east1.nanopool.org:9999
+2022-Mar-05 03:50:14: Ethereum - Total speed: 0.000 H/s, Total shares: 0 Rejected: 0, Time: 00:17
+2022-Mar-05 03:50:14: Ethereum: GPU 0 0.000 H/s, GPU 1 0.000 H/s
+2022-Mar-05 03:50:14: GPU0 t=58°C fan 37% power 105.57W, GPU1 t=82°C fan 41% power 131.94W. Total power: 237.51W
+2022-Mar-05 03:50:14: GPU1: 4839 MB DAG generated in 13.91 seconds
+2022-Mar-05 03:50:14: New job from eth-us-east1.nanopool.org:9999
+2022-Mar-05 03:50:14: Ethereum - Total speed: 0.000 H/s, Total shares: 0 Rejected: 0, Time: 00:18
+2022-Mar-05 03:50:14: Ethereum: GPU 0 0.000 H/s, GPU 1 0.000 H/s
+2022-Mar-05 03:50:14: Ethereum last 10 min - GPU 0: 0.000 H/s, GPU 1: 0.000 H/s. Total: 0.000 H/s.
+2022-Mar-05 03:50:15: New job from eth-us-east1.nanopool.org:9999
+2022-Mar-05 03:50:15: Ethereum - Total speed: 22.974 MH/s, Total shares: 0 Rejected: 0, Time: 00:18
+2022-Mar-05 03:50:15: Ethereum: GPU 0 0.000 H/s, GPU 1 22.974 MH/s
+2022-Mar-05 03:50:15: GPU0 t=58°C fan 36% power 104.57W, GPU1 t=82°C fan 40% power 139.55W. Total power: 244.12W
+2022-Mar-05 03:50:15: GPU0: 4839 MB DAG generated in 14.91 seconds
+2022-Mar-05 03:50:18: New job from eth-us-east1.nanopool.org:9999
+2022-Mar-05 03:50:18: Ethereum - Total speed: 22.974 MH/s, Total shares: 0 Rejected: 0, Time: 00:21
+2022-Mar-05 03:50:18: Ethereum: GPU 0 0.000 H/s, GPU 1 22.974 MH/s
+2022-Mar-05 03:50:21: New job from eth-us-east1.nanopool.org:9999
+2022-Mar-05 03:50:21: Ethereum - Total speed: 44.303 MH/s, Total shares: 0 Rejected: 0, Time: 00:24
+2022-Mar-05 03:50:21: Ethereum: GPU 0 21.328 MH/s, GPU 1 22.975 MH/s
+2022-Mar-05 03:50:21: GPU0 t=59°C fan 37% power 118.99W, GPU1 t=82°C fan 39% power 133.51W. Total power: 252.50W
+2022-Mar-05 03:50:21: New job from eth-us-east1.nanopool.org:9999
+2022-Mar-05 03:50:21: Ethereum - Total speed: 44.304 MH/s, Total shares: 0 Rejected: 0, Time: 00:24
+2022-Mar-05 03:50:21: Ethereum: GPU 0 21.328 MH/s, GPU 1 22.977 MH/s
+2022-Mar-05 03:50:21: Ethereum last 10 min - GPU 0: 21.328 MH/s, GPU 1: 22.975 MH/s. Total: 28.944 MH/s.
+2022-Mar-05 03:50:21: New job from eth-us-east1.nanopool.org:9999
+2022-Mar-05 03:50:21: Ethereum - Total speed: 44.302 MH/s, Total shares: 0 Rejected: 0, Time: 00:25
+2022-Mar-05 03:50:21: Ethereum: GPU 0 21.325 MH/s, GPU 1 22.977 MH/s
+2022-Mar-05 03:50:21: GPU0 t=59°C fan 36% power 118.95W, GPU1 t=82°C fan 38% power 133.75W. Total power: 252.69W
+2022-Mar-05 03:50:23: New job from eth-us-east1.nanopool.org:9999
+2022-Mar-05 03:50:23: Ethereum - Total speed: 44.289 MH/s, Total shares: 0 Rejected: 0, Time: 00:27
+2022-Mar-05 03:50:23: Ethereum: GPU 0 21.325 MH/s, GPU 1 22.964 MH/s
+2022-Mar-05 03:50:24: New job from eth-us-east1.nanopool.org:9999
+2022-Mar-05 03:50:24: Ethereum - Total speed: 44.292 MH/s, Total shares: 0 Rejected: 0, Time: 00:27
+2022-Mar-05 03:50:24: Ethereum: GPU 0 21.325 MH/s, GPU 1 22.967 MH/s
+2022-Mar-05 03:50:24: GPU0 t=60°C fan 36% power 119.04W, GPU1 t=82°C fan 47% power 133.84W. Total power: 252.89W
+2022-Mar-05 03:50:27: New job from eth-us-east1.nanopool.org:9999
+2022-Mar-05 03:50:27: Ethereum - Total speed: 44.294 MH/s, Total shares: 0 Rejected: 0, Time: 00:30
+2022-Mar-05 03:50:27: Ethereum: GPU 0 21.325 MH/s, GPU 1 22.969 MH/s
+2022-Mar-05 03:50:27: Ethereum last 10 min - GPU 0: 21.325 MH/s, GPU 1: 22.972 MH/s. Total: 36.355 MH/s.
+2022-Mar-05 03:50:29: New job from eth-us-east1.nanopool.org:9999
+2022-Mar-05 03:50:29: Ethereum - Total speed: 44.297 MH/s, Total shares: 0 Rejected: 0, Time: 00:33
+2022-Mar-05 03:50:29: Ethereum: GPU 0 21.325 MH/s, GPU 1 22.971 MH/s
+2022-Mar-05 03:50:29: GPU0 t=60°C fan 36% power 119.29W, GPU1 t=82°C fan 47% power 127.83W. Total power: 247.12W
+2022-Mar-05 03:50:30: New job from eth-us-east1.nanopool.org:9999
+2022-Mar-05 03:50:30: Ethereum - Total speed: 44.299 MH/s, Total shares: 0 Rejected: 0, Time: 00:33
+2022-Mar-05 03:50:30: Ethereum: GPU 0 21.326 MH/s, GPU 1 22.974 MH/s
+2022-Mar-05 03:50:30: New job from eth-us-east1.nanopool.org:9999
+2022-Mar-05 03:50:30: Ethereum - Total speed: 44.302 MH/s, Total shares: 0 Rejected: 0, Time: 00:33
+2022-Mar-05 03:50:30: Ethereum: GPU 0 21.326 MH/s, GPU 1 22.976 MH/s
+2022-Mar-05 03:50:30: GPU0 t=60°C fan 36% power 119.04W, GPU1 t=82°C fan 94% power 127.67W. Total power: 246.71W
+2022-Mar-05 03:50:33: New job from eth-us-east1.nanopool.org:9999
+2022-Mar-05 03:50:33: Ethereum - Total speed: 44.303 MH/s, Total shares: 0 Rejected: 0, Time: 00:36
+2022-Mar-05 03:50:33: Ethereum: GPU 0 21.326 MH/s, GPU 1 22.977 MH/s
+2022-Mar-05 03:50:33: Ethereum last 10 min - GPU 0: 21.325 MH/s, GPU 1: 22.972 MH/s. Total: 39.028 MH/s.
+2022-Mar-05 03:50:36: New job from eth-us-east1.nanopool.org:9999
+2022-Mar-05 03:50:36: Ethereum - Total speed: 44.305 MH/s, Total shares: 0 Rejected: 0, Time: 00:39
+2022-Mar-05 03:50:36: Ethereum: GPU 0 21.326 MH/s, GPU 1 22.979 MH/s
+2022-Mar-05 03:50:36: GPU0 t=61°C fan 36% power 119.25W, GPU1 t=82°C fan 46% power 128.25W. Total power: 247.50W
+2022-Mar-05 03:50:36: New job from eth-us-east1.nanopool.org:9999
+2022-Mar-05 03:50:36: Ethereum - Total speed: 44.307 MH/s, Total shares: 0 Rejected: 0, Time: 00:39
+2022-Mar-05 03:50:36: Ethereum: GPU 0 21.326 MH/s, GPU 1 22.981 MH/s
+2022-Mar-05 03:50:39: New job from eth-us-east1.nanopool.org:9999
+2022-Mar-05 03:50:39: Ethereum - Total speed: 44.308 MH/s, Total shares: 0 Rejected: 0, Time: 00:42
+2022-Mar-05 03:50:39: Ethereum: GPU 0 21.326 MH/s, GPU 1 22.982 MH/s
+2022-Mar-05 03:50:39: GPU0 t=61°C fan 36% power 119.29W, GPU1 t=82°C fan 45% power 128.16W. Total power: 247.46W
+2022-Mar-05 03:50:42: New job from eth-us-east1.nanopool.org:9999
+2022-Mar-05 03:50:42: Ethereum - Total speed: 44.308 MH/s, Total shares: 0 Rejected: 0, Time: 00:45
+2022-Mar-05 03:50:42: Ethereum: GPU 0 21.326 MH/s, GPU 1 22.982 MH/s
+2022-Mar-05 03:50:42: Ethereum last 10 min - GPU 0: 21.326 MH/s, GPU 1: 22.975 MH/s. Total: 40.796 MH/s.
+2022-Mar-05 03:50:46: New job from eth-us-east1.nanopool.org:9999
+2022-Mar-05 03:50:46: Ethereum - Total speed: 44.310 MH/s, Total shares: 0 Rejected: 0, Time: 00:49
+2022-Mar-05 03:50:46: Ethereum: GPU 0 21.326 MH/s, GPU 1 22.983 MH/s
+2022-Mar-05 03:50:46: GPU0 t=62°C fan 36% power 119.87W, GPU1 t=82°C fan 41% power 122.48W. Total power: 242.35W
+2022-Mar-05 03:50:46: New job from eth-us-east1.nanopool.org:9999
+2022-Mar-05 03:50:46: Ethereum - Total speed: 44.312 MH/s, Total shares: 0 Rejected: 0, Time: 00:49
+2022-Mar-05 03:50:46: Ethereum: GPU 0 21.326 MH/s, GPU 1 22.986 MH/s
+2022-Mar-05 03:50:48: New job from eth-us-east1.nanopool.org:9999
+2022-Mar-05 03:50:48: Ethereum - Total speed: 44.313 MH/s, Total shares: 0 Rejected: 0, Time: 00:51
+2022-Mar-05 03:50:48: Ethereum: GPU 0 21.326 MH/s, GPU 1 22.987 MH/s
+2022-Mar-05 03:50:48: GPU0 t=62°C fan 36% power 119.87W, GPU1 t=82°C fan 45% power 122.63W. Total power: 242.50W
+2022-Mar-05 03:50:52: New job from eth-us-east1.nanopool.org:9999
+2022-Mar-05 03:50:52: Ethereum - Total speed: 44.315 MH/s, Total shares: 0 Rejected: 0, Time: 00:55
+2022-Mar-05 03:50:52: Ethereum: GPU 0 21.326 MH/s, GPU 1 22.989 MH/s
+2022-Mar-05 03:50:52: Ethereum last 10 min - GPU 0: 21.326 MH/s, GPU 1: 22.978 MH/s. Total: 41.750 MH/s.
+2022-Mar-05 03:50:54: New job from eth-us-east1.nanopool.org:9999
+2022-Mar-05 03:50:54: Ethereum - Total speed: 44.316 MH/s, Total shares: 0 Rejected: 0, Time: 00:57
+2022-Mar-05 03:50:54: Ethereum: GPU 0 21.326 MH/s, GPU 1 22.990 MH/s
+2022-Mar-05 03:50:54: GPU0 t=62°C fan 36% power 119.87W, GPU1 t=82°C fan 48% power 122.76W. Total power: 242.62W
+2022-Mar-05 03:50:54: New job from eth-us-east1.nanopool.org:9999
+2022-Mar-05 03:50:54: Ethereum - Total speed: 44.316 MH/s, Total shares: 0 Rejected: 0, Time: 00:57
+2022-Mar-05 03:50:54: Ethereum: GPU 0 21.326 MH/s, GPU 1 22.990 MH/s
+2022-Mar-05 03:50:55: New job from eth-us-east1.nanopool.org:9999
+2022-Mar-05 03:50:55: Ethereum - Total speed: 44.317 MH/s, Total shares: 0 Rejected: 0, Time: 00:58
+2022-Mar-05 03:50:55: Ethereum: GPU 0 21.326 MH/s, GPU 1 22.991 MH/s
+2022-Mar-05 03:50:55: GPU0 t=62°C fan 36% power 119.87W, GPU1 t=82°C fan 51% power 122.85W. Total power: 242.72W
+2022-Mar-05 03:50:55: New job from eth-us-east1.nanopool.org:9999
+2022-Mar-05 03:50:55: Ethereum - Total speed: 44.318 MH/s, Total shares: 0 Rejected: 0, Time: 00:58
+2022-Mar-05 03:50:55: Ethereum: GPU 0 21.326 MH/s, GPU 1 22.992 MH/s
+2022-Mar-05 03:50:55: Ethereum last 10 min - GPU 0: 21.326 MH/s, GPU 1: 22.979 MH/s. Total: 41.942 MH/s.
+2022-Mar-05 03:50:55: New job from eth-us-east1.nanopool.org:9999
+2022-Mar-05 03:50:55: Ethereum - Total speed: 44.318 MH/s, Total shares: 0 Rejected: 0, Time: 00:58
+2022-Mar-05 03:50:55: Ethereum: GPU 0 21.326 MH/s, GPU 1 22.992 MH/s
+2022-Mar-05 03:50:55: GPU0 t=62°C fan 36% power 120.11W, GPU1 t=82°C fan 52% power 122.86W. Total power: 242.97W
+2022-Mar-05 03:50:58: New job from eth-us-east1.nanopool.org:9999
+2022-Mar-05 03:50:58: Ethereum - Total speed: 44.319 MH/s, Total shares: 0 Rejected: 0, Time: 01:01
+2022-Mar-05 03:50:58: Ethereum: GPU 0 21.326 MH/s, GPU 1 22.993 MH/s
+2022-Mar-05 03:50:59: New job from eth-us-east1.nanopool.org:9999
+2022-Mar-05 03:50:59: Ethereum - Total speed: 44.321 MH/s, Total shares: 0 Rejected: 0, Time: 01:02
+2022-Mar-05 03:50:59: Ethereum: GPU 0 21.326 MH/s, GPU 1 22.995 MH/s
+2022-Mar-05 03:50:59: GPU0 t=63°C fan 37% power 121.08W, GPU1 t=82°C fan 41% power 122.56W. Total power: 243.65W
+2022-Mar-05 03:51:00: New job from eth-us-east1.nanopool.org:9999
+2022-Mar-05 03:51:00: Ethereum - Total speed: 44.322 MH/s, Total shares: 0 Rejected: 0, Time: 01:04
+2022-Mar-05 03:51:00: Ethereum: GPU 0 21.326 MH/s, GPU 1 22.996 MH/s
+2022-Mar-05 03:51:00: Ethereum last 10 min - GPU 0: 21.326 MH/s, GPU 1: 22.981 MH/s. Total: 42.228 MH/s.
+2022-Mar-05 03:51:04: New job from eth-us-east1.nanopool.org:9999
+2022-Mar-05 03:51:04: Ethereum - Total speed: 44.322 MH/s, Total shares: 0 Rejected: 0, Time: 01:07
+2022-Mar-05 03:51:04: Ethereum: GPU 0 21.326 MH/s, GPU 1 22.996 MH/s
+2022-Mar-05 03:51:04: GPU0 t=63°C fan 37% power 121.08W, GPU1 t=82°C fan 44% power 122.66W. Total power: 243.74W
+2022-Mar-05 03:51:06: New job from eth-us-east1.nanopool.org:9999
+2022-Mar-05 03:51:06: Ethereum - Total speed: 44.323 MH/s, Total shares: 0 Rejected: 0, Time: 01:10
+2022-Mar-05 03:51:06: Ethereum: GPU 0 21.326 MH/s, GPU 1 22.997 MH/s
+2022-Mar-05 03:51:07: New job from eth-us-east1.nanopool.org:9999
+2022-Mar-05 03:51:07: Ethereum - Total speed: 44.322 MH/s, Total shares: 0 Rejected: 0, Time: 01:10
+2022-Mar-05 03:51:07: Ethereum: GPU 0 21.326 MH/s, GPU 1 22.996 MH/s
+2022-Mar-05 03:51:07: GPU0 t=63°C fan 37% power 121.32W, GPU1 t=82°C fan 102% power 122.85W. Total power: 244.17W
+2022-Mar-05 03:51:09: New job from eth-us-east1.nanopool.org:9999
+2022-Mar-05 03:51:09: Ethereum - Total speed: 44.323 MH/s, Total shares: 0 Rejected: 0, Time: 01:13
+2022-Mar-05 03:51:09: Ethereum: GPU 0 21.326 MH/s, GPU 1 22.997 MH/s
+2022-Mar-05 03:51:09: Ethereum last 10 min - GPU 0: 21.326 MH/s, GPU 1: 22.983 MH/s. Total: 42.573 MH/s.
+2022-Mar-05 03:51:10: New job from eth-us-east1.nanopool.org:9999
+2022-Mar-05 03:51:10: Ethereum - Total speed: 44.324 MH/s, Total shares: 0 Rejected: 0, Time: 01:13
+2022-Mar-05 03:51:10: Ethereum: GPU 0 21.326 MH/s, GPU 1 22.998 MH/s
+2022-Mar-05 03:51:10: GPU0 t=63°C fan 37% power 121.42W, GPU1 t=82°C fan 50% power 121.75W. Total power: 243.16W
+2022-Mar-05 03:51:12: New job from eth-us-east1.nanopool.org:9999
+2022-Mar-05 03:51:12: Ethereum - Total speed: 44.325 MH/s, Total shares: 0 Rejected: 0, Time: 01:16
+2022-Mar-05 03:51:12: Ethereum: GPU 0 21.326 MH/s, GPU 1 22.998 MH/s
+2022-Mar-05 03:51:13: New job from eth-us-east1.nanopool.org:9999
+2022-Mar-05 03:51:13: Ethereum - Total speed: 44.325 MH/s, Total shares: 0 Rejected: 0, Time: 01:16
+2022-Mar-05 03:51:13: Ethereum: GPU 0 21.326 MH/s, GPU 1 22.999 MH/s
+2022-Mar-05 03:51:13: GPU0 t=63°C fan 37% power 121.42W, GPU1 t=82°C fan 93% power 121.69W. Total power: 243.11W
+2022-Mar-05 03:51:13: New job from eth-us-east1.nanopool.org:9999
+2022-Mar-05 03:51:13: Ethereum - Total speed: 44.325 MH/s, Total shares: 0 Rejected: 0, Time: 01:16
+2022-Mar-05 03:51:13: Ethereum: GPU 0 21.326 MH/s, GPU 1 22.999 MH/s
+2022-Mar-05 03:51:13: Ethereum last 10 min - GPU 0: 21.326 MH/s, GPU 1: 22.984 MH/s. Total: 42.679 MH/s.
+2022-Mar-05 03:51:15: New job from eth-us-east1.nanopool.org:9999
+2022-Mar-05 03:51:15: Ethereum - Total speed: 44.326 MH/s, Total shares: 0 Rejected: 0, Time: 01:19
+2022-Mar-05 03:51:15: Ethereum: GPU 0 21.326 MH/s, GPU 1 23.000 MH/s
+2022-Mar-05 03:51:15: GPU0 t=64°C fan 38% power 121.66W, GPU1 t=82°C fan 46% power 123.09W. Total power: 244.75W
+2022-Mar-05 03:51:16: New job from eth-us-east1.nanopool.org:9999
+2022-Mar-05 03:51:16: Ethereum - Total speed: 44.327 MH/s, Total shares: 0 Rejected: 0, Time: 01:19
+2022-Mar-05 03:51:16: Ethereum: GPU 0 21.327 MH/s, GPU 1 23.001 MH/s
+2022-Mar-05 03:51:18: New job from eth-us-east1.nanopool.org:9999
+2022-Mar-05 03:51:18: Ethereum - Total speed: 44.328 MH/s, Total shares: 0 Rejected: 0, Time: 01:22
+2022-Mar-05 03:51:18: Ethereum: GPU 0 21.327 MH/s, GPU 1 23.001 MH/s
+2022-Mar-05 03:51:18: GPU0 t=64°C fan 38% power 121.66W, GPU1 t=82°C fan 74% power 121.74W. Total power: 243.40W
+2022-Mar-05 03:51:19: New job from eth-us-east1.nanopool.org:9999
+2022-Mar-05 03:51:19: Ethereum - Total speed: 44.329 MH/s, Total shares: 0 Rejected: 0, Time: 01:23
+2022-Mar-05 03:51:19: Ethereum: GPU 0 21.327 MH/s, GPU 1 23.002 MH/s
+2022-Mar-05 03:51:19: Ethereum last 10 min - GPU 0: 21.326 MH/s, GPU 1: 22.986 MH/s. Total: 42.846 MH/s.
+2022-Mar-05 03:51:20: New job from eth-us-east1.nanopool.org:9999
+2022-Mar-05 03:51:20: Ethereum - Total speed: 44.329 MH/s, Total shares: 0 Rejected: 0, Time: 01:23
+2022-Mar-05 03:51:20: Ethereum: GPU 0 21.327 MH/s, GPU 1 23.002 MH/s
+2022-Mar-05 03:51:20: GPU0 t=64°C fan 38% power 121.47W, GPU1 t=82°C fan 43% power 121.88W. Total power: 243.35W
+2022-Mar-05 03:51:21: New job from eth-us-east1.nanopool.org:9999
+2022-Mar-05 03:51:21: Ethereum - Total speed: 44.329 MH/s, Total shares: 0 Rejected: 0, Time: 01:25
+2022-Mar-05 03:51:21: Ethereum: GPU 0 21.326 MH/s, GPU 1 23.003 MH/s
+2022-Mar-05 03:51:22: New job from eth-us-east1.nanopool.org:9999
+2022-Mar-05 03:51:22: Ethereum - Total speed: 44.327 MH/s, Total shares: 0 Rejected: 0, Time: 01:25
+2022-Mar-05 03:51:22: Ethereum: GPU 0 21.326 MH/s, GPU 1 23.000 MH/s
+2022-Mar-05 03:51:22: GPU0 t=64°C fan 38% power 121.66W, GPU1 t=82°C fan 48% power 121.75W. Total power: 243.40W
+2022-Mar-05 03:51:22: New job from eth-us-east1.nanopool.org:9999
+2022-Mar-05 03:51:22: Ethereum - Total speed: 44.327 MH/s, Total shares: 0 Rejected: 0, Time: 01:25
+2022-Mar-05 03:51:22: Ethereum: GPU 0 21.326 MH/s, GPU 1 23.000 MH/s
+2022-Mar-05 03:51:22: Ethereum last 10 min - GPU 0: 21.326 MH/s, GPU 1: 22.986 MH/s. Total: 42.897 MH/s.
+2022-Mar-05 03:51:24: New job from eth-us-east1.nanopool.org:9999
+2022-Mar-05 03:51:24: Ethereum - Total speed: 44.327 MH/s, Total shares: 0 Rejected: 0, Time: 01:28
+2022-Mar-05 03:51:24: Ethereum: GPU 0 21.326 MH/s, GPU 1 23.001 MH/s
+2022-Mar-05 03:51:24: GPU0 t=64°C fan 39% power 121.66W, GPU1 t=82°C fan 51% power 122.12W. Total power: 243.78W
+2022-Mar-05 03:51:25: New job from eth-us-east1.nanopool.org:9999
+2022-Mar-05 03:51:25: Ethereum - Total speed: 44.328 MH/s, Total shares: 0 Rejected: 0, Time: 01:28
+2022-Mar-05 03:51:25: Ethereum: GPU 0 21.326 MH/s, GPU 1 23.001 MH/s
+2022-Mar-05 03:51:28: New job from eth-us-east1.nanopool.org:9999
+2022-Mar-05 03:51:28: Ethereum - Total speed: 44.326 MH/s, Total shares: 0 Rejected: 0, Time: 01:32
+2022-Mar-05 03:51:28: Ethereum: GPU 0 21.324 MH/s, GPU 1 23.002 MH/s
+2022-Mar-05 03:51:28: GPU0 t=64°C fan 39% power 121.75W, GPU1 t=82°C fan 104% power 116.64W. Total power: 238.39W
+2022-Mar-05 03:51:29: New job from eth-us-east1.nanopool.org:9999
+2022-Mar-05 03:51:29: Ethereum - Total speed: 44.329 MH/s, Total shares: 0 Rejected: 0, Time: 01:32
+2022-Mar-05 03:51:29: Ethereum: GPU 0 21.325 MH/s, GPU 1 23.004 MH/s
+2022-Mar-05 03:51:29: Ethereum last 10 min - GPU 0: 21.326 MH/s, GPU 1: 22.988 MH/s. Total: 43.031 MH/s.
+2022-Mar-05 03:51:29: New job from eth-us-east1.nanopool.org:9999
+2022-Mar-05 03:51:29: Ethereum - Total speed: 44.329 MH/s, Total shares: 0 Rejected: 0, Time: 01:32
+2022-Mar-05 03:51:29: Ethereum: GPU 0 21.325 MH/s, GPU 1 23.004 MH/s
+2022-Mar-05 03:51:29: GPU0 t=64°C fan 39% power 122.05W, GPU1 t=82°C fan 53% power 116.67W. Total power: 238.71W
+2022-Mar-05 03:51:29: New job from eth-us-east1.nanopool.org:9999
+2022-Mar-05 03:51:29: Ethereum - Total speed: 44.331 MH/s, Total shares: 0 Rejected: 0, Time: 01:32
+2022-Mar-05 03:51:29: Ethereum: GPU 0 21.325 MH/s, GPU 1 23.006 MH/s
+2022-Mar-05 03:51:32: New job from eth-us-east1.nanopool.org:9999
+2022-Mar-05 03:51:32: Ethereum - Total speed: 44.334 MH/s, Total shares: 0 Rejected: 0, Time: 01:36
+2022-Mar-05 03:51:32: Ethereum: GPU 0 21.325 MH/s, GPU 1 23.009 MH/s
+2022-Mar-05 03:51:32: GPU0 t=65°C fan 40% power 122.05W, GPU1 t=82°C fan 44% power 116.39W. Total power: 238.43W
+2022-Mar-05 03:51:33: New job from eth-us-east1.nanopool.org:9999
+2022-Mar-05 03:51:33: Ethereum - Total speed: 44.336 MH/s, Total shares: 0 Rejected: 0, Time: 01:37
+2022-Mar-05 03:51:33: Ethereum: GPU 0 21.325 MH/s, GPU 1 23.010 MH/s
+2022-Mar-05 03:51:33: Ethereum last 10 min - GPU 0: 21.326 MH/s, GPU 1: 22.989 MH/s. Total: 43.107 MH/s.
+2022-Mar-05 03:51:34: New job from eth-us-east1.nanopool.org:9999
+2022-Mar-05 03:51:34: Ethereum - Total speed: 44.338 MH/s, Total shares: 0 Rejected: 0, Time: 01:37
+2022-Mar-05 03:51:34: Ethereum: GPU 0 21.326 MH/s, GPU 1 23.012 MH/s
+2022-Mar-05 03:51:34: GPU0 t=65°C fan 40% power 122.05W, GPU1 t=82°C fan 91% power 116.35W. Total power: 238.39W
+2022-Mar-05 03:51:34: New job from eth-us-east1.nanopool.org:9999
+2022-Mar-05 03:51:34: Ethereum - Total speed: 44.340 MH/s, Total shares: 0 Rejected: 0, Time: 01:37
+2022-Mar-05 03:51:34: Ethereum: GPU 0 21.326 MH/s, GPU 1 23.014 MH/s
+2022-Mar-05 03:51:34: New job from eth-us-east1.nanopool.org:9999
+2022-Mar-05 03:51:34: Ethereum - Total speed: 44.341 MH/s, Total shares: 0 Rejected: 0, Time: 01:38
+2022-Mar-05 03:51:34: Ethereum: GPU 0 21.326 MH/s, GPU 1 23.015 MH/s
+2022-Mar-05 03:51:34: GPU0 t=65°C fan 41% power 121.75W, GPU1 t=82°C fan 46% power 116.54W. Total power: 238.29W
+2022-Mar-05 03:51:35: New job from eth-us-east1.nanopool.org:9999
+2022-Mar-05 03:51:35: Ethereum - Total speed: 44.342 MH/s, Total shares: 0 Rejected: 0, Time: 01:38
+2022-Mar-05 03:51:35: Ethereum: GPU 0 21.325 MH/s, GPU 1 23.016 MH/s
+2022-Mar-05 03:51:35: Ethereum last 10 min - GPU 0: 21.326 MH/s, GPU 1: 22.989 MH/s. Total: 43.134 MH/s.
+2022-Mar-05 03:51:35: New job from eth-us-east1.nanopool.org:9999
+2022-Mar-05 03:51:35: Ethereum - Total speed: 44.343 MH/s, Total shares: 0 Rejected: 0, Time: 01:39
+2022-Mar-05 03:51:35: Ethereum: GPU 0 21.326 MH/s, GPU 1 23.018 MH/s
+2022-Mar-05 03:51:35: GPU0 t=65°C fan 41% power 122.05W, GPU1 t=82°C fan 48% power 116.30W. Total power: 238.35W
+2022-Mar-05 03:51:39: New job from eth-us-east1.nanopool.org:9999
+2022-Mar-05 03:51:39: Ethereum - Total speed: 44.344 MH/s, Total shares: 0 Rejected: 0, Time: 01:42
+2022-Mar-05 03:51:39: Ethereum: GPU 0 21.326 MH/s, GPU 1 23.019 MH/s
+2022-Mar-05 03:51:39: New job from eth-us-east1.nanopool.org:9999
+2022-Mar-05 03:51:39: Ethereum - Total speed: 44.344 MH/s, Total shares: 0 Rejected: 0, Time: 01:43
+2022-Mar-05 03:51:39: Ethereum: GPU 0 21.326 MH/s, GPU 1 23.018 MH/s
+2022-Mar-05 03:51:39: GPU0 t=65°C fan 41% power 122.05W, GPU1 t=82°C fan 44% power 116.24W. Total power: 238.29W
+2022-Mar-05 03:51:41: New job from eth-us-east1.nanopool.org:9999
+2022-Mar-05 03:51:41: Ethereum - Total speed: 44.343 MH/s, Total shares: 0 Rejected: 0, Time: 01:45
+2022-Mar-05 03:51:41: Ethereum: GPU 0 21.325 MH/s, GPU 1 23.018 MH/s
+2022-Mar-05 03:51:41: Ethereum last 10 min - GPU 0: 21.326 MH/s, GPU 1: 22.991 MH/s. Total: 43.221 MH/s.
+2022-Mar-05 03:51:42: New job from eth-us-east1.nanopool.org:9999
+2022-Mar-05 03:51:42: Ethereum - Total speed: 44.345 MH/s, Total shares: 0 Rejected: 0, Time: 01:45
+2022-Mar-05 03:51:42: Ethereum: GPU 0 21.326 MH/s, GPU 1 23.019 MH/s
+2022-Mar-05 03:51:42: GPU0 t=65°C fan 42% power 122.05W, GPU1 t=82°C fan 48% power 116.54W. Total power: 238.59W
+2022-Mar-05 03:51:45: New job from eth-us-east1.nanopool.org:9999
+2022-Mar-05 03:51:45: Ethereum - Total speed: 44.345 MH/s, Total shares: 0 Rejected: 0, Time: 01:48
+2022-Mar-05 03:51:45: Ethereum: GPU 0 21.326 MH/s, GPU 1 23.020 MH/s
+2022-Mar-05 03:51:45: New job from eth-us-east1.nanopool.org:9999
+2022-Mar-05 03:51:45: Ethereum - Total speed: 44.346 MH/s, Total shares: 0 Rejected: 0, Time: 01:48
+2022-Mar-05 03:51:45: Ethereum: GPU 0 21.326 MH/s, GPU 1 23.021 MH/s
+2022-Mar-05 03:51:45: GPU0 t=65°C fan 42% power 122.38W, GPU1 t=82°C fan 46% power 116.35W. Total power: 238.73W
+2022-Mar-05 03:51:45: New job from eth-us-east1.nanopool.org:9999
+2022-Mar-05 03:51:45: Ethereum - Total speed: 44.347 MH/s, Total shares: 0 Rejected: 0, Time: 01:49
+2022-Mar-05 03:51:45: Ethereum: GPU 0 21.326 MH/s, GPU 1 23.022 MH/s
+2022-Mar-05 03:51:45: Ethereum last 10 min - GPU 0: 21.326 MH/s, GPU 1: 22.993 MH/s. Total: 43.273 MH/s.
+2022-Mar-05 03:51:46: New job from eth-us-east1.nanopool.org:9999
+2022-Mar-05 03:51:46: Ethereum - Total speed: 44.348 MH/s, Total shares: 0 Rejected: 0, Time: 01:49
+2022-Mar-05 03:51:46: Ethereum: GPU 0 21.326 MH/s, GPU 1 23.022 MH/s
+2022-Mar-05 03:51:46: GPU0 t=65°C fan 42% power 122.38W, GPU1 t=82°C fan 42% power 116.11W. Total power: 238.49W
+2022-Mar-05 03:51:48: New job from eth-us-east1.nanopool.org:9999
+2022-Mar-05 03:51:48: Ethereum - Total speed: 44.349 MH/s, Total shares: 0 Rejected: 0, Time: 01:52
+2022-Mar-05 03:51:48: Ethereum: GPU 0 21.326 MH/s, GPU 1 23.023 MH/s
+2022-Mar-05 03:51:49: New job from eth-us-east1.nanopool.org:9999
+2022-Mar-05 03:51:49: Ethereum - Total speed: 44.349 MH/s, Total shares: 0 Rejected: 0, Time: 01:52
+2022-Mar-05 03:51:49: Ethereum: GPU 0 21.326 MH/s, GPU 1 23.023 MH/s
+2022-Mar-05 03:51:49: GPU0 t=65°C fan 42% power 122.14W, GPU1 t=82°C fan 42% power 116.35W. Total power: 238.49W
+2022-Mar-05 03:51:51: New job from eth-us-east1.nanopool.org:9999
+2022-Mar-05 03:51:51: Ethereum - Total speed: 44.350 MH/s, Total shares: 0 Rejected: 0, Time: 01:55
+2022-Mar-05 03:51:51: Ethereum: GPU 0 21.326 MH/s, GPU 1 23.024 MH/s
+2022-Mar-05 03:51:51: Ethereum last 10 min - GPU 0: 21.326 MH/s, GPU 1: 22.995 MH/s. Total: 43.339 MH/s.
+2022-Mar-05 03:51:54: New job from eth-us-east1.nanopool.org:9999
+2022-Mar-05 03:51:55: Ethereum - Total speed: 44.348 MH/s, Total shares: 0 Rejected: 0, Time: 01:58
+2022-Mar-05 03:51:55: Ethereum: GPU 0 21.326 MH/s, GPU 1 23.022 MH/s
+2022-Mar-05 03:51:55: GPU0 t=65°C fan 43% power 122.38W, GPU1 t=82°C fan 49% power 114.69W. Total power: 237.07W
+2022-Mar-05 03:51:55: New job from eth-us-east1.nanopool.org:9999
+2022-Mar-05 03:51:55: Ethereum - Total speed: 44.349 MH/s, Total shares: 0 Rejected: 0, Time: 01:58
+2022-Mar-05 03:51:55: Ethereum: GPU 0 21.326 MH/s, GPU 1 23.023 MH/s
+2022-Mar-05 03:51:57: New job from eth-us-east1.nanopool.org:9999
+2022-Mar-05 03:51:57: Ethereum - Total speed: 44.351 MH/s, Total shares: 0 Rejected: 0, Time: 02:00
+2022-Mar-05 03:51:57: Ethereum: GPU 0 21.326 MH/s, GPU 1 23.025 MH/s
+2022-Mar-05 03:51:57: GPU0 t=65°C fan 43% power 122.48W, GPU1 t=82°C fan 50% power 114.49W. Total power: 236.97W
+2022-Mar-05 03:51:57: New job from eth-us-east1.nanopool.org:9999
+2022-Mar-05 03:51:57: Ethereum - Total speed: 44.353 MH/s, Total shares: 0 Rejected: 0, Time: 02:00
+2022-Mar-05 03:51:57: Ethereum: GPU 0 21.326 MH/s, GPU 1 23.026 MH/s
+2022-Mar-05 03:51:57: Ethereum last 10 min - GPU 0: 21.326 MH/s, GPU 1: 22.996 MH/s. Total: 43.394 MH/s.
+2022-Mar-05 03:52:00: New job from eth-us-east1.nanopool.org:9999
+2022-Mar-05 03:52:00: Ethereum - Total speed: 44.354 MH/s, Total shares: 0 Rejected: 0, Time: 02:03
+2022-Mar-05 03:52:00: Ethereum: GPU 0 21.326 MH/s, GPU 1 23.027 MH/s
+2022-Mar-05 03:52:00: GPU0 t=65°C fan 43% power 122.38W, GPU1 t=82°C fan 46% power 116.44W. Total power: 238.83W
+2022-Mar-05 03:52:01: New job from eth-us-east1.nanopool.org:9999
+2022-Mar-05 03:52:01: Ethereum - Total speed: 44.354 MH/s, Total shares: 0 Rejected: 0, Time: 02:04
+2022-Mar-05 03:52:01: Ethereum: GPU 0 21.326 MH/s, GPU 1 23.027 MH/s
+2022-Mar-05 03:52:02: New job from eth-us-east1.nanopool.org:9999
+2022-Mar-05 03:52:02: Ethereum - Total speed: 44.353 MH/s, Total shares: 0 Rejected: 0, Time: 02:06
+2022-Mar-05 03:52:02: Ethereum: GPU 0 21.326 MH/s, GPU 1 23.028 MH/s
+2022-Mar-05 03:52:02: GPU0 t=65°C fan 43% power 122.24W, GPU1 t=82°C fan 38% power 114.44W. Total power: 236.68W
+2022-Mar-05 03:52:03: New job from eth-us-east1.nanopool.org:9999
+2022-Mar-05 03:52:03: Ethereum - Total speed: 44.354 MH/s, Total shares: 0 Rejected: 0, Time: 02:07
+2022-Mar-05 03:52:03: Ethereum: GPU 0 21.326 MH/s, GPU 1 23.028 MH/s
+2022-Mar-05 03:52:03: Ethereum last 10 min - GPU 0: 21.326 MH/s, GPU 1: 22.998 MH/s. Total: 43.450 MH/s.
+2022-Mar-05 03:52:06: New job from eth-us-east1.nanopool.org:9999
+2022-Mar-05 03:52:06: Ethereum - Total speed: 44.355 MH/s, Total shares: 0 Rejected: 0, Time: 02:09
+2022-Mar-05 03:52:06: Ethereum: GPU 0 21.326 MH/s, GPU 1 23.029 MH/s
+2022-Mar-05 03:52:06: GPU0 t=65°C fan 44% power 122.48W, GPU1 t=82°C fan 44% power 113.62W. Total power: 236.10W
+2022-Mar-05 03:52:06: New job from eth-us-east1.nanopool.org:9999
+2022-Mar-05 03:52:06: Ethereum - Total speed: 44.354 MH/s, Total shares: 0 Rejected: 0, Time: 02:10
+2022-Mar-05 03:52:06: Ethereum: GPU 0 21.326 MH/s, GPU 1 23.028 MH/s
+2022-Mar-05 03:52:09: New job from eth-us-east1.nanopool.org:9999
+2022-Mar-05 03:52:09: Ethereum - Total speed: 44.355 MH/s, Total shares: 0 Rejected: 0, Time: 02:12
+2022-Mar-05 03:52:09: Ethereum: GPU 0 21.326 MH/s, GPU 1 23.029 MH/s
+2022-Mar-05 03:52:09: GPU0 t=65°C fan 44% power 122.45W, GPU1 t=82°C fan 50% power 114.59W. Total power: 237.04W
+2022-Mar-05 03:52:09: New job from eth-us-east1.nanopool.org:9999
+2022-Mar-05 03:52:09: Ethereum - Total speed: 44.356 MH/s, Total shares: 0 Rejected: 0, Time: 02:12
+2022-Mar-05 03:52:09: Ethereum: GPU 0 21.326 MH/s, GPU 1 23.030 MH/s
+2022-Mar-05 03:52:09: Ethereum last 10 min - GPU 0: 21.326 MH/s, GPU 1: 22.999 MH/s. Total: 43.494 MH/s.
+2022-Mar-05 03:52:12: New job from eth-us-east1.nanopool.org:9999
+2022-Mar-05 03:52:12: Ethereum - Total speed: 44.356 MH/s, Total shares: 0 Rejected: 0, Time: 02:16
+2022-Mar-05 03:52:12: Ethereum: GPU 0 21.325 MH/s, GPU 1 23.031 MH/s
+2022-Mar-05 03:52:12: GPU0 t=65°C fan 44% power 122.48W, GPU1 t=82°C fan 46% power 114.53W. Total power: 237.01W
+2022-Mar-05 03:52:13: New job from eth-us-east1.nanopool.org:9999
+2022-Mar-05 03:52:13: Ethereum - Total speed: 44.357 MH/s, Total shares: 0 Rejected: 0, Time: 02:16
+2022-Mar-05 03:52:13: Ethereum: GPU 0 21.326 MH/s, GPU 1 23.032 MH/s
+2022-Mar-05 03:52:13: New job from eth-us-east1.nanopool.org:9999
+2022-Mar-05 03:52:13: Ethereum - Total speed: 44.357 MH/s, Total shares: 0 Rejected: 0, Time: 02:16
+2022-Mar-05 03:52:13: Ethereum: GPU 0 21.326 MH/s, GPU 1 23.032 MH/s
+2022-Mar-05 03:52:13: GPU0 t=65°C fan 45% power 122.48W, GPU1 t=82°C fan 88% power 114.59W. Total power: 237.07W
+2022-Mar-05 03:52:13: New job from eth-us-east1.nanopool.org:9999
+2022-Mar-05 03:52:13: Ethereum - Total speed: 44.358 MH/s, Total shares: 0 Rejected: 0, Time: 02:16
+2022-Mar-05 03:52:13: Ethereum: GPU 0 21.326 MH/s, GPU 1 23.032 MH/s
+2022-Mar-05 03:52:13: Ethereum last 10 min - GPU 0: 21.326 MH/s, GPU 1: 23.001 MH/s. Total: 43.525 MH/s.
+2022-Mar-05 03:52:14: New job from eth-us-east1.nanopool.org:9999
+2022-Mar-05 03:52:14: Ethereum - Total speed: 44.358 MH/s, Total shares: 0 Rejected: 0, Time: 02:17
+2022-Mar-05 03:52:14: Ethereum: GPU 0 21.325 MH/s, GPU 1 23.033 MH/s
+2022-Mar-05 03:52:14: GPU0 t=65°C fan 44% power 122.38W, GPU1 t=82°C fan 48% power 114.69W. Total power: 237.07W
+2022-Mar-05 03:52:14: New job from eth-us-east1.nanopool.org:9999
+2022-Mar-05 03:52:14: Ethereum - Total speed: 44.359 MH/s, Total shares: 0 Rejected: 0, Time: 02:17
+2022-Mar-05 03:52:14: Ethereum: GPU 0 21.325 MH/s, GPU 1 23.033 MH/s
+2022-Mar-05 03:52:18: New job from eth-us-east1.nanopool.org:9999
+2022-Mar-05 03:52:18: Ethereum - Total speed: 44.359 MH/s, Total shares: 0 Rejected: 0, Time: 02:21
+2022-Mar-05 03:52:18: Ethereum: GPU 0 21.326 MH/s, GPU 1 23.033 MH/s
+2022-Mar-05 03:52:18: GPU0 t=66°C fan 45% power 122.48W, GPU1 t=82°C fan 46% power 114.63W. Total power: 237.11W
+2022-Mar-05 03:52:18: New job from eth-us-east1.nanopool.org:9999
+2022-Mar-05 03:52:18: Ethereum - Total speed: 44.359 MH/s, Total shares: 0 Rejected: 0, Time: 02:21
+2022-Mar-05 03:52:18: Ethereum: GPU 0 21.326 MH/s, GPU 1 23.034 MH/s
+2022-Mar-05 03:52:18: Ethereum last 10 min - GPU 0: 21.326 MH/s, GPU 1: 23.002 MH/s. Total: 43.557 MH/s.
+2022-Mar-05 03:52:21: New job from eth-us-east1.nanopool.org:9999
+2022-Mar-05 03:52:21: Ethereum - Total speed: 44.360 MH/s, Total shares: 0 Rejected: 0, Time: 02:24
+2022-Mar-05 03:52:21: Ethereum: GPU 0 21.326 MH/s, GPU 1 23.035 MH/s
+2022-Mar-05 03:52:21: GPU0 t=66°C fan 45% power 122.48W, GPU1 t=82°C fan 50% power 114.59W. Total power: 237.07W
+2022-Mar-05 03:52:21: New job from eth-us-east1.nanopool.org:9999
+2022-Mar-05 03:52:21: Ethereum - Total speed: 44.361 MH/s, Total shares: 0 Rejected: 0, Time: 02:25
+2022-Mar-05 03:52:21: Ethereum: GPU 0 21.326 MH/s, GPU 1 23.035 MH/s
+2022-Mar-05 03:52:21: New job from eth-us-east1.nanopool.org:9999
+2022-Mar-05 03:52:21: Ethereum - Total speed: 44.361 MH/s, Total shares: 0 Rejected: 0, Time: 02:25
+2022-Mar-05 03:52:21: Ethereum: GPU 0 21.326 MH/s, GPU 1 23.035 MH/s
+2022-Mar-05 03:52:21: GPU0 t=66°C fan 45% power 122.14W, GPU1 t=82°C fan 92% power 114.31W. Total power: 236.45W
+2022-Mar-05 03:52:21: New job from eth-us-east1.nanopool.org:9999
+2022-Mar-05 03:52:21: Ethereum - Total speed: 44.348 MH/s, Total shares: 0 Rejected: 0, Time: 02:25
+2022-Mar-05 03:52:21: Ethereum: GPU 0 21.325 MH/s, GPU 1 23.023 MH/s
+2022-Mar-05 03:52:21: Ethereum last 10 min - GPU 0: 21.326 MH/s, GPU 1: 23.003 MH/s. Total: 43.580 MH/s.
+2022-Mar-05 03:52:23: New job from eth-us-east1.nanopool.org:9999
+2022-Mar-05 03:52:23: Ethereum - Total speed: 44.350 MH/s, Total shares: 0 Rejected: 0, Time: 02:27
+2022-Mar-05 03:52:23: Ethereum: GPU 0 21.326 MH/s, GPU 1 23.024 MH/s
+2022-Mar-05 03:52:23: GPU0 t=66°C fan 45% power 122.48W, GPU1 t=82°C fan 46% power 114.69W. Total power: 237.17W
+2022-Mar-05 03:52:24: New job from eth-us-east1.nanopool.org:9999
+2022-Mar-05 03:52:24: Ethereum - Total speed: 44.352 MH/s, Total shares: 0 Rejected: 0, Time: 02:27
+2022-Mar-05 03:52:24: Ethereum: GPU 0 21.326 MH/s, GPU 1 23.026 MH/s
+2022-Mar-05 03:52:24: New job from eth-us-east1.nanopool.org:9999
+2022-Mar-05 03:52:24: Ethereum - Total speed: 44.352 MH/s, Total shares: 0 Rejected: 0, Time: 02:27
+2022-Mar-05 03:52:24: Ethereum: GPU 0 21.326 MH/s, GPU 1 23.026 MH/s
+2022-Mar-05 03:52:24: GPU0 t=66°C fan 45% power 122.48W, GPU1 t=82°C fan 95% power 114.63W. Total power: 237.11W
+2022-Mar-05 03:52:24: New job from eth-us-east1.nanopool.org:9999
+2022-Mar-05 03:52:24: Ethereum - Total speed: 44.352 MH/s, Total shares: 0 Rejected: 0, Time: 02:27
+2022-Mar-05 03:52:24: Ethereum: GPU 0 21.325 MH/s, GPU 1 23.027 MH/s
+2022-Mar-05 03:52:24: Ethereum last 10 min - GPU 0: 21.326 MH/s, GPU 1: 23.003 MH/s. Total: 43.594 MH/s.
+2022-Mar-05 03:52:27: New job from eth-us-east1.nanopool.org:9999
+2022-Mar-05 03:52:27: Ethereum - Total speed: 44.353 MH/s, Total shares: 0 Rejected: 0, Time: 02:30
+2022-Mar-05 03:52:27: Ethereum: GPU 0 21.325 MH/s, GPU 1 23.028 MH/s
+2022-Mar-05 03:52:27: GPU0 t=66°C fan 45% power 122.48W, GPU1 t=82°C fan 46% power 114.59W. Total power: 237.07W
+2022-Mar-05 03:52:28: New job from eth-us-east1.nanopool.org:9999
+2022-Mar-05 03:52:28: Ethereum - Total speed: 44.354 MH/s, Total shares: 0 Rejected: 0, Time: 02:31
+2022-Mar-05 03:52:28: Ethereum: GPU 0 21.325 MH/s, GPU 1 23.029 MH/s
+2022-Mar-05 03:52:28: New job from eth-us-east1.nanopool.org:9999
+2022-Mar-05 03:52:28: Ethereum - Total speed: 44.355 MH/s, Total shares: 0 Rejected: 0, Time: 02:31
+2022-Mar-05 03:52:28: Ethereum: GPU 0 21.326 MH/s, GPU 1 23.029 MH/s
+2022-Mar-05 03:52:28: GPU0 t=66°C fan 45% power 122.73W, GPU1 t=82°C fan 49% power 114.59W. Total power: 237.32W
+2022-Mar-05 03:52:28: New job from eth-us-east1.nanopool.org:9999
+2022-Mar-05 03:52:28: Ethereum - Total speed: 44.355 MH/s, Total shares: 0 Rejected: 0, Time: 02:32
+2022-Mar-05 03:52:28: Ethereum: GPU 0 21.325 MH/s, GPU 1 23.030 MH/s
+2022-Mar-05 03:52:28: Ethereum last 10 min - GPU 0: 21.326 MH/s, GPU 1: 23.004 MH/s. Total: 43.619 MH/s.
+2022-Mar-05 03:52:29: New job from eth-us-east1.nanopool.org:9999
+2022-Mar-05 03:52:29: Ethereum - Total speed: 44.357 MH/s, Total shares: 0 Rejected: 0, Time: 02:33
+2022-Mar-05 03:52:29: Ethereum: GPU 0 21.325 MH/s, GPU 1 23.031 MH/s
+2022-Mar-05 03:52:29: GPU0 t=66°C fan 45% power 122.70W, GPU1 t=82°C fan 105% power 114.78W. Total power: 237.48W
+2022-Mar-05 03:52:30: New job from eth-us-east1.nanopool.org:9999
+2022-Mar-05 03:52:30: Ethereum - Total speed: 44.357 MH/s, Total shares: 0 Rejected: 0, Time: 02:33
+2022-Mar-05 03:52:30: Ethereum: GPU 0 21.325 MH/s, GPU 1 23.032 MH/s
+2022-Mar-05 03:52:34: New job from eth-us-east1.nanopool.org:9999
+2022-Mar-05 03:52:34: Ethereum - Total speed: 44.358 MH/s, Total shares: 0 Rejected: 0, Time: 02:37
+2022-Mar-05 03:52:34: Ethereum: GPU 0 21.325 MH/s, GPU 1 23.033 MH/s
+2022-Mar-05 03:52:34: GPU0 t=66°C fan 46% power 122.82W, GPU1 t=82°C fan 51% power 114.59W. Total power: 237.41W
+2022-Mar-05 03:52:34: New job from eth-us-east1.nanopool.org:9999
+2022-Mar-05 03:52:34: Ethereum - Total speed: 44.359 MH/s, Total shares: 0 Rejected: 0, Time: 02:37
+2022-Mar-05 03:52:34: Ethereum: GPU 0 21.326 MH/s, GPU 1 23.034 MH/s
+2022-Mar-05 03:52:34: Ethereum last 10 min - GPU 0: 21.326 MH/s, GPU 1: 23.005 MH/s. Total: 43.649 MH/s.
+2022-Mar-05 03:52:34: New job from eth-us-east1.nanopool.org:9999
+2022-Mar-05 03:52:34: Ethereum - Total speed: 44.360 MH/s, Total shares: 0 Rejected: 0, Time: 02:38
+2022-Mar-05 03:52:34: Ethereum: GPU 0 21.325 MH/s, GPU 1 23.034 MH/s
+2022-Mar-05 03:52:34: GPU0 t=66°C fan 46% power 122.58W, GPU1 t=82°C fan 49% power 114.63W. Total power: 237.20W
+2022-Mar-05 03:52:35: New job from eth-us-east1.nanopool.org:9999
+2022-Mar-05 03:52:35: Ethereum - Total speed: 44.360 MH/s, Total shares: 0 Rejected: 0, Time: 02:38
+2022-Mar-05 03:52:35: Ethereum: GPU 0 21.325 MH/s, GPU 1 23.035 MH/s
+2022-Mar-05 03:52:35: New job from eth-us-east1.nanopool.org:9999
+2022-Mar-05 03:52:35: Ethereum - Total speed: 44.360 MH/s, Total shares: 0 Rejected: 0, Time: 02:38
+2022-Mar-05 03:52:35: Ethereum: GPU 0 21.325 MH/s, GPU 1 23.035 MH/s
+2022-Mar-05 03:52:35: GPU0 t=66°C fan 46% power 122.48W, GPU1 t=82°C fan 49% power 114.25W. Total power: 236.73W
+2022-Mar-05 03:52:37: New job from eth-us-east1.nanopool.org:9999
+2022-Mar-05 03:52:37: Ethereum - Total speed: 44.360 MH/s, Total shares: 0 Rejected: 0, Time: 02:41
+2022-Mar-05 03:52:37: Ethereum: GPU 0 21.325 MH/s, GPU 1 23.035 MH/s
+2022-Mar-05 03:52:37: Ethereum last 10 min - GPU 0: 21.326 MH/s, GPU 1: 23.006 MH/s. Total: 43.667 MH/s.
+2022-Mar-05 03:52:37: New job from eth-us-east1.nanopool.org:9999
+2022-Mar-05 03:52:37: Ethereum - Total speed: 44.360 MH/s, Total shares: 0 Rejected: 0, Time: 02:41
+2022-Mar-05 03:52:37: Ethereum: GPU 0 21.325 MH/s, GPU 1 23.035 MH/s
+2022-Mar-05 03:52:37: GPU0 t=66°C fan 46% power 122.82W, GPU1 t=82°C fan 88% power 114.59W. Total power: 237.41W
+2022-Mar-05 03:52:41: New job from eth-us-east1.nanopool.org:9999
+2022-Mar-05 03:52:41: Ethereum - Total speed: 44.359 MH/s, Total shares: 0 Rejected: 0, Time: 02:44
+2022-Mar-05 03:52:41: Ethereum: GPU 0 21.325 MH/s, GPU 1 23.033 MH/s
+2022-Mar-05 03:52:41: New job from eth-us-east1.nanopool.org:9999
+2022-Mar-05 03:52:41: Ethereum - Total speed: 44.360 MH/s, Total shares: 0 Rejected: 0, Time: 02:45
+2022-Mar-05 03:52:41: Ethereum: GPU 0 21.326 MH/s, GPU 1 23.034 MH/s
+2022-Mar-05 03:52:41: GPU0 t=66°C fan 46% power 122.82W, GPU1 t=82°C fan 42% power 114.49W. Total power: 237.31W
+2022-Mar-05 03:52:43: New job from eth-us-east1.nanopool.org:9999
+2022-Mar-05 03:52:43: Ethereum - Total speed: 44.360 MH/s, Total shares: 0 Rejected: 0, Time: 02:47
+2022-Mar-05 03:52:43: Ethereum: GPU 0 21.326 MH/s, GPU 1 23.035 MH/s
+2022-Mar-05 03:52:43: Ethereum last 10 min - GPU 0: 21.326 MH/s, GPU 1: 23.007 MH/s. Total: 43.694 MH/s.
+2022-Mar-05 03:52:44: New job from eth-us-east1.nanopool.org:9999
+2022-Mar-05 03:52:44: Ethereum - Total speed: 44.361 MH/s, Total shares: 0 Rejected: 0, Time: 02:47
+2022-Mar-05 03:52:44: Ethereum: GPU 0 21.326 MH/s, GPU 1 23.035 MH/s
+2022-Mar-05 03:52:44: GPU0 t=66°C fan 46% power 122.78W, GPU1 t=82°C fan 48% power 114.69W. Total power: 237.47W
+2022-Mar-05 03:52:44: New job from eth-us-east1.nanopool.org:9999
+2022-Mar-05 03:52:44: Ethereum - Total speed: 44.361 MH/s, Total shares: 0 Rejected: 0, Time: 02:47
+2022-Mar-05 03:52:44: Ethereum: GPU 0 21.326 MH/s, GPU 1 23.035 MH/s
+2022-Mar-05 03:52:47: New job from eth-us-east1.nanopool.org:9999
+2022-Mar-05 03:52:47: Ethereum - Total speed: 44.361 MH/s, Total shares: 0 Rejected: 0, Time: 02:50
+2022-Mar-05 03:52:47: Ethereum: GPU 0 21.325 MH/s, GPU 1 23.036 MH/s
+2022-Mar-05 03:52:47: GPU0 t=66°C fan 46% power 122.82W, GPU1 t=82°C fan 58% power 114.88W. Total power: 237.69W
+2022-Mar-05 03:52:47: New job from eth-us-east1.nanopool.org:9999
+2022-Mar-05 03:52:47: Ethereum - Total speed: 44.362 MH/s, Total shares: 0 Rejected: 0, Time: 02:50
+2022-Mar-05 03:52:47: Ethereum: GPU 0 21.326 MH/s, GPU 1 23.036 MH/s
+2022-Mar-05 03:52:47: Ethereum last 10 min - GPU 0: 21.326 MH/s, GPU 1: 23.008 MH/s. Total: 43.710 MH/s.
+2022-Mar-05 03:52:47: New job from eth-us-east1.nanopool.org:9999
+2022-Mar-05 03:52:47: Ethereum - Total speed: 44.362 MH/s, Total shares: 0 Rejected: 0, Time: 02:50
+2022-Mar-05 03:52:47: Ethereum: GPU 0 21.326 MH/s, GPU 1 23.036 MH/s
+2022-Mar-05 03:52:47: GPU0 t=66°C fan 46% power 122.82W, GPU1 t=82°C fan 57% power 114.69W. Total power: 237.50W
+2022-Mar-05 03:52:49: New job from eth-us-east1.nanopool.org:9999
+2022-Mar-05 03:52:49: Ethereum - Total speed: 44.362 MH/s, Total shares: 0 Rejected: 0, Time: 02:52
+2022-Mar-05 03:52:49: Ethereum: GPU 0 21.326 MH/s, GPU 1 23.036 MH/s
+2022-Mar-05 03:52:49: New job from eth-us-east1.nanopool.org:9999
+2022-Mar-05 03:52:49: Ethereum - Total speed: 44.362 MH/s, Total shares: 0 Rejected: 0, Time: 02:52
+2022-Mar-05 03:52:49: Ethereum: GPU 0 21.326 MH/s, GPU 1 23.036 MH/s
+2022-Mar-05 03:52:49: GPU0 t=66°C fan 46% power 122.82W, GPU1 t=82°C fan 49% power 114.63W. Total power: 237.44W
+2022-Mar-05 03:52:52: New job from eth-us-east1.nanopool.org:9999
+2022-Mar-05 03:52:52: Ethereum - Total speed: 44.362 MH/s, Total shares: 0 Rejected: 0, Time: 02:55
+2022-Mar-05 03:52:52: Ethereum: GPU 0 21.325 MH/s, GPU 1 23.037 MH/s
+2022-Mar-05 03:52:52: Ethereum last 10 min - GPU 0: 21.326 MH/s, GPU 1: 23.009 MH/s. Total: 43.732 MH/s.
+2022-Mar-05 03:52:53: New job from eth-us-east1.nanopool.org:9999
+2022-Mar-05 03:52:53: Ethereum - Total speed: 44.361 MH/s, Total shares: 0 Rejected: 0, Time: 02:56
+2022-Mar-05 03:52:53: Ethereum: GPU 0 21.326 MH/s, GPU 1 23.035 MH/s
+2022-Mar-05 03:52:53: GPU0 t=66°C fan 46% power 122.78W, GPU1 t=82°C fan 54% power 114.78W. Total power: 237.57W
+2022-Mar-05 03:52:55: New job from eth-us-east1.nanopool.org:9999
+2022-Mar-05 03:52:55: Ethereum - Total speed: 44.361 MH/s, Total shares: 0 Rejected: 0, Time: 02:58
+2022-Mar-05 03:52:55: Ethereum: GPU 0 21.326 MH/s, GPU 1 23.036 MH/s
+2022-Mar-05 03:52:55: New job from eth-us-east1.nanopool.org:9999
+2022-Mar-05 03:52:55: Ethereum - Total speed: 44.362 MH/s, Total shares: 0 Rejected: 0, Time: 02:58
+2022-Mar-05 03:52:55: Ethereum: GPU 0 21.326 MH/s, GPU 1 23.036 MH/s
+2022-Mar-05 03:52:55: GPU0 t=66°C fan 47% power 122.82W, GPU1 t=82°C fan 98% power 114.69W. Total power: 237.50W
+2022-Mar-05 03:52:55: New job from eth-us-east1.nanopool.org:9999
+2022-Mar-05 03:52:55: Ethereum - Total speed: 44.362 MH/s, Total shares: 0 Rejected: 0, Time: 02:58
+2022-Mar-05 03:52:55: Ethereum: GPU 0 21.326 MH/s, GPU 1 23.036 MH/s
+2022-Mar-05 03:52:55: Ethereum last 10 min - GPU 0: 21.326 MH/s, GPU 1: 23.009 MH/s. Total: 43.743 MH/s.
+2022-Mar-05 03:52:58: New job from eth-us-east1.nanopool.org:9999
+2022-Mar-05 03:52:58: Ethereum - Total speed: 44.362 MH/s, Total shares: 0 Rejected: 0, Time: 03:02
+2022-Mar-05 03:52:58: Ethereum: GPU 0 21.326 MH/s, GPU 1 23.036 MH/s
+2022-Mar-05 03:52:58: GPU0 t=66°C fan 46% power 122.78W, GPU1 t=82°C fan 49% power 114.49W. Total power: 237.28W
+2022-Mar-05 03:52:59: New job from eth-us-east1.nanopool.org:9999
+2022-Mar-05 03:52:59: Ethereum - Total speed: 44.362 MH/s, Total shares: 0 Rejected: 0, Time: 03:02
+2022-Mar-05 03:52:59: Ethereum: GPU 0 21.326 MH/s, GPU 1 23.036 MH/s
+2022-Mar-05 03:53:01: New job from eth-us-east1.nanopool.org:9999
+2022-Mar-05 03:53:01: Ethereum - Total speed: 44.363 MH/s, Total shares: 0 Rejected: 0, Time: 03:04
+2022-Mar-05 03:53:01: Ethereum: GPU 0 21.326 MH/s, GPU 1 23.037 MH/s
+2022-Mar-05 03:53:01: GPU0 t=66°C fan 47% power 122.82W, GPU1 t=82°C fan 42% power 114.74W. Total power: 237.56W
+2022-Mar-05 03:53:01: New job from eth-us-east1.nanopool.org:9999
+2022-Mar-05 03:53:01: Ethereum - Total speed: 44.363 MH/s, Total shares: 0 Rejected: 0, Time: 03:05
+2022-Mar-05 03:53:01: Ethereum: GPU 0 21.326 MH/s, GPU 1 23.036 MH/s
+2022-Mar-05 03:53:01: Ethereum last 10 min - GPU 0: 21.326 MH/s, GPU 1: 23.010 MH/s. Total: 43.766 MH/s.
+2022-Mar-05 03:53:05: New job from eth-us-east1.nanopool.org:9999
+2022-Mar-05 03:53:05: Ethereum - Total speed: 44.363 MH/s, Total shares: 0 Rejected: 0, Time: 03:08
+2022-Mar-05 03:53:05: Ethereum: GPU 0 21.326 MH/s, GPU 1 23.037 MH/s
+2022-Mar-05 03:53:05: GPU0 t=66°C fan 47% power 122.78W, GPU1 t=82°C fan 52% power 114.93W. Total power: 237.71W

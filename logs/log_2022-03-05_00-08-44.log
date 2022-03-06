@@ -1,0 +1,52 @@
+2022-Mar-05 00:08:44:                                    _                 
+2022-Mar-05 00:08:44:  _ __   __ _ _ __   ___  _ __ ___ (_)_ __   ___ _ __ 
+2022-Mar-05 00:08:44: | '_ \ / _` | '_ \ / _ \| '_ ` _ \| | '_ \ / _ \ '__|
+2022-Mar-05 00:08:44: | | | | (_| | | | | (_) | | | | | | | | | |  __/ |   
+2022-Mar-05 00:08:44: |_| |_|\__,_|_| |_|\___/|_| |_| |_|_|_| |_|\___|_|   
+2022-Mar-05 00:08:44: 
+2022-Mar-05 00:08:44: Version 3.5.2-cuda11
+2022-Mar-05 00:08:44: Started EthMan server on port 3333 without a password (read-only mode).
+2022-Mar-05 00:08:44: Started web interface on port 9090 without a password.
+2022-Mar-05 00:08:44: CUDA driver version is 11.6, runtime version is 11.1
+2022-Mar-05 00:08:44: Detected 2 devices
+2022-Mar-05 00:08:44: GPU 0 PCI 23:00.0, Platform: CUDA, Name: NVIDIA GeForce GTX 1080, 8119 MB available
+2022-Mar-05 00:08:44: GPU 1 PCI 2d:00.0, Platform: CUDA, Name: NVIDIA GeForce GTX 1080, 8116 MB available
+2022-Mar-05 00:08:44: -------------------Ethash:------------------
+2022-Mar-05 00:08:44: Currency: Ethereum
+2022-Mar-05 00:08:44: Wallet: 0x52bc44d5378309ee2abf1539bf71de1b7d7be3b5
+2022-Mar-05 00:08:44: Rig name: Bashful_42bd835f
+2022-Mar-05 00:08:44: Email was not set.
+2022-Mar-05 00:08:44: Hashrate threshold to restart miner is not set
+2022-Mar-05 00:08:44: Number of rejected shares per hour to restart miner is not set
+2022-Mar-05 00:08:44: Added pool: eth-us-west1.nanopool.org:9433
+2022-Mar-05 00:08:44: Added pool: eth-eu2.nanopool.org:9433
+2022-Mar-05 00:08:44: Added pool: eth-asia1.nanopool.org:9433
+2022-Mar-05 00:08:44: Added pool: eth-jp1.nanopool.org:9433
+2022-Mar-05 00:08:44: Added pool: eth-us-east1.nanopool.org:9433
+2022-Mar-05 00:08:44: Added pool: eth-eu1.nanopool.org:9433
+2022-Mar-05 00:08:44: Added pool: eth-au1.nanopool.org:9433
+2022-Mar-05 00:08:44: Auto pool sorting is enabled
+2022-Mar-05 00:08:44: Using all GPU devices
+2022-Mar-05 00:08:44: Memory tweak: 1,1
+2022-Mar-05 00:08:44: -------------Common parameters:-------------
+2022-Mar-05 00:08:44: Log path: ./logs/
+2022-Mar-05 00:08:44: Log is written to file
+2022-Mar-05 00:08:44: GPU watchdog is enabled
+2022-Mar-05 00:08:44: Never calling reboot.sh (always restarting the miner in case of errors). 
+2022-Mar-05 00:08:44: Setting up algorithm: Ethash
+2022-Mar-05 00:08:45: -----------------------------------------------------------
+2022-Mar-05 00:08:45: | You are mining to a default wallet! Change it to yours! |
+2022-Mar-05 00:08:45: -----------------------------------------------------------
+2022-Mar-05 00:08:45: Connecting to pools...
+2022-Mar-05 00:08:46: Connected to pool: eth-us-west1.nanopool.org:9433 | IP: 149.28.212.250 | ping: 51 ms.
+2022-Mar-05 00:08:46: Ethereum: trying to use "stratum" mining protocol... to disable this behaviour, specify: protocol=JSON-RPC
+2022-Mar-05 00:08:46: Ethereum: trying to use "stratum" mining protocol... to disable this behaviour, specify: protocol=JSON-RPC
+2022-Mar-05 00:08:46: Ethereum: trying to use "stratum" mining protocol... to disable this behaviour, specify: protocol=JSON-RPC
+2022-Mar-05 00:08:46: Ethereum: trying to use "stratum" mining protocol... to disable this behaviour, specify: protocol=JSON-RPC
+2022-Mar-05 00:08:47: Ethereum: trying to use "stratum" mining protocol... to disable this behaviour, specify: protocol=JSON-RPC
+2022-Mar-05 00:08:47: Ethereum: trying to use "stratum" mining protocol... to disable this behaviour, specify: protocol=JSON-RPC
+2022-Mar-05 00:08:47: Ethereum: trying to use "stratum" mining protocol... to disable this behaviour, specify: protocol=JSON-RPC
+2022-Mar-05 00:08:47: Ethereum: trying to use "stratum" mining protocol... to disable this behaviour, specify: protocol=JSON-RPC
+2022-Mar-05 00:08:48: Ethereum: trying to use "stratum" mining protocol... to disable this behaviour, specify: protocol=JSON-RPC
+2022-Mar-05 00:08:48: Ethereum: trying to use "stratum" mining protocol... to disable this behaviour, specify: protocol=JSON-RPC
+2022-Mar-05 00:08:48: Ethereum: trying to use "stratum" mining protocol... to disable this behaviour, specify: protocol=JSON-RPC

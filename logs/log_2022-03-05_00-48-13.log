@@ -1,0 +1,42 @@
+2022-Mar-05 00:48:13:                                    _                 
+2022-Mar-05 00:48:13:  _ __   __ _ _ __   ___  _ __ ___ (_)_ __   ___ _ __ 
+2022-Mar-05 00:48:13: | '_ \ / _` | '_ \ / _ \| '_ ` _ \| | '_ \ / _ \ '__|
+2022-Mar-05 00:48:13: | | | | (_| | | | | (_) | | | | | | | | | |  __/ |   
+2022-Mar-05 00:48:13: |_| |_|\__,_|_| |_|\___/|_| |_| |_|_|_| |_|\___|_|   
+2022-Mar-05 00:48:13: 
+2022-Mar-05 00:48:13: Version 3.5.2-cuda11
+2022-Mar-05 00:48:13: Started EthMan server on port 3333 without a password (read-only mode).
+2022-Mar-05 00:48:13: Started web interface on port 9090 without a password.
+2022-Mar-05 00:48:13: CUDA driver version is 11.6, runtime version is 11.1
+2022-Mar-05 00:48:13: Detected 2 devices
+2022-Mar-05 00:48:13: GPU 0 PCI 23:00.0, Platform: CUDA, Name: NVIDIA GeForce GTX 1080, 8119 MB available
+2022-Mar-05 00:48:13: GPU 1 PCI 2d:00.0, Platform: CUDA, Name: NVIDIA GeForce GTX 1080, 8116 MB available
+2022-Mar-05 00:48:13: -------------------Ethash:------------------
+2022-Mar-05 00:48:13: Currency: Ethereum
+2022-Mar-05 00:48:13: Wallet: 0xF68CbDa32a082C9168AB1F084042242C3a09b6e6
+2022-Mar-05 00:48:13: Rig name: Bashful_42bd835f
+2022-Mar-05 00:48:13: Email was not set.
+2022-Mar-05 00:48:13: Hashrate threshold to restart miner is not set
+2022-Mar-05 00:48:13: Number of rejected shares per hour to restart miner is not set
+2022-Mar-05 00:48:13: Added pool: eth-us-west1.nanopool.org:9433
+2022-Mar-05 00:48:13: Added pool: eth-us-east1.nanopool.org:9433
+2022-Mar-05 00:48:13: Added pool: eth-eu2.nanopool.org:9433
+2022-Mar-05 00:48:13: Added pool: eth-asia1.nanopool.org:9433
+2022-Mar-05 00:48:13: Added pool: eth-eu1.nanopool.org:9433
+2022-Mar-05 00:48:13: Added pool: eth-jp1.nanopool.org:9433
+2022-Mar-05 00:48:13: Added pool: eth-au1.nanopool.org:9433
+2022-Mar-05 00:48:13: Auto pool sorting is enabled
+2022-Mar-05 00:48:13: Using all GPU devices
+2022-Mar-05 00:48:13: Memory tweak: 1,1
+2022-Mar-05 00:48:13: -------------Common parameters:-------------
+2022-Mar-05 00:48:13: Log path: ./logs/
+2022-Mar-05 00:48:13: Log is written to file
+2022-Mar-05 00:48:13: GPU watchdog is enabled
+2022-Mar-05 00:48:13: Never calling reboot.sh (always restarting the miner in case of errors). 
+2022-Mar-05 00:48:13: Setting up algorithm: Ethash
+2022-Mar-05 00:48:14: Connecting to pools...
+2022-Mar-05 00:48:14: Connected to pool: eth-us-west1.nanopool.org:9433 | IP: 207.246.100.198 | ping: 61 ms.
+2022-Mar-05 00:48:14: Ethereum: trying to use "stratum" mining protocol... to disable this behaviour, specify: protocol=JSON-RPC
+2022-Mar-05 00:48:14: Ethereum: trying to use "stratum" mining protocol... to disable this behaviour, specify: protocol=JSON-RPC
+2022-Mar-05 00:48:15: Ethereum: trying to use "stratum" mining protocol... to disable this behaviour, specify: protocol=JSON-RPC
+2022-Mar-05 00:48:15: Ethereum: trying to use "stratum" mining protocol... to disable this behaviour, specify: protocol=JSON-RPC

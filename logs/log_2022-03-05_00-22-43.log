@@ -1,0 +1,45 @@
+2022-Mar-05 00:22:43:                                    _                 
+2022-Mar-05 00:22:43:  _ __   __ _ _ __   ___  _ __ ___ (_)_ __   ___ _ __ 
+2022-Mar-05 00:22:43: | '_ \ / _` | '_ \ / _ \| '_ ` _ \| | '_ \ / _ \ '__|
+2022-Mar-05 00:22:43: | | | | (_| | | | | (_) | | | | | | | | | |  __/ |   
+2022-Mar-05 00:22:43: |_| |_|\__,_|_| |_|\___/|_| |_| |_|_|_| |_|\___|_|   
+2022-Mar-05 00:22:43: 
+2022-Mar-05 00:22:43: Version 3.5.2-cuda11
+2022-Mar-05 00:22:43: Started EthMan server on port 3333 without a password (read-only mode).
+2022-Mar-05 00:22:43: Started web interface on port 9090 without a password.
+2022-Mar-05 00:22:43: ------------------RandomX:------------------
+2022-Mar-05 00:22:43: Currency: Monero
+2022-Mar-05 00:22:43: Wallet: 38BNsGzMDWkiF4wevgUnAWYdBFY7436Aiu
+2022-Mar-05 00:22:43: Rig name: cleveland
+2022-Mar-05 00:22:43: Email: zzhou292@wisc.edu
+2022-Mar-05 00:22:43: Rig password: x
+2022-Mar-05 00:22:43: Hashrate threshold to restart miner is not set
+2022-Mar-05 00:22:43: Number of rejected shares per hour to restart miner is not set
+2022-Mar-05 00:22:43: Using CPU threads: 16
+2022-Mar-05 00:22:43: Added pool: xmr-us-west1.nanopool.org:14433
+2022-Mar-05 00:22:43: Added pool: xmr-us-east1.nanopool.org:14433
+2022-Mar-05 00:22:43: Added pool: xmr-eu1.nanopool.org:14433
+2022-Mar-05 00:22:43: Added pool: xmr-eu2.nanopool.org:14433
+2022-Mar-05 00:22:43: Added pool: xmr-jp1.nanopool.org:14433
+2022-Mar-05 00:22:43: Added pool: xmr-asia1.nanopool.org:14433
+2022-Mar-05 00:22:43: Added pool: xmr-au1.nanopool.org:14433
+2022-Mar-05 00:22:43: Auto pool sorting is enabled
+2022-Mar-05 00:22:43: -------------Common parameters:-------------
+2022-Mar-05 00:22:43: Log path: ./logs/
+2022-Mar-05 00:22:43: Log is written to file
+2022-Mar-05 00:22:43: GPU watchdog is enabled
+2022-Mar-05 00:22:43: Never calling reboot.sh (always restarting the miner in case of errors). 
+2022-Mar-05 00:22:43: Setting up algorithm: RandomX
+2022-Mar-05 00:22:43: Wallet for Monero must be 95 or 106 characters long.
+2022-Mar-05 00:22:43: Connecting to pools...
+2022-Mar-05 00:22:43: Connected to pool: xmr-us-west1.nanopool.org:14433 | IP: 66.42.105.146 | ping: 51 ms.
+2022-Mar-05 00:22:43: Monero: trying to use "stratum" mining protocol... to disable this behaviour, specify: protocol=JSON-RPC
+2022-Mar-05 00:22:44: Monero: trying to use "stratum" mining protocol... to disable this behaviour, specify: protocol=JSON-RPC
+2022-Mar-05 00:22:44: Monero: trying to use "stratum" mining protocol... to disable this behaviour, specify: protocol=JSON-RPC
+2022-Mar-05 00:22:44: Monero: trying to use "stratum" mining protocol... to disable this behaviour, specify: protocol=JSON-RPC
+2022-Mar-05 00:22:44: Monero: trying to use "stratum" mining protocol... to disable this behaviour, specify: protocol=JSON-RPC
+2022-Mar-05 00:22:44: Monero: trying to use "stratum" mining protocol... to disable this behaviour, specify: protocol=JSON-RPC
+2022-Mar-05 00:22:45: Monero: trying to use "stratum" mining protocol... to disable this behaviour, specify: protocol=JSON-RPC
+2022-Mar-05 00:22:45: Monero: trying to use "stratum" mining protocol... to disable this behaviour, specify: protocol=JSON-RPC
+2022-Mar-05 00:22:45: Monero: trying to use "stratum" mining protocol... to disable this behaviour, specify: protocol=JSON-RPC
+2022-Mar-05 00:22:45: Monero: trying to use "stratum" mining protocol... to disable this behaviour, specify: protocol=JSON-RPC
